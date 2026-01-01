@@ -62,3 +62,9 @@ update:
 # Show dependency tree
 tree:
     uv tree
+
+# View conversation transcripts in browser (starts HTTP server on port 8888)
+transcripts:
+    @echo "Opening transcripts at http://localhost:8888"
+    @echo "Press Ctrl+C to stop the server"
+    python3 -m http.server 8888 --directory .claude_transcripts

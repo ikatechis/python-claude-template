@@ -1,4 +1,65 @@
 {
+  "model": "opusplan",
+  "project": {
+    "name": "Ο Δρόμος του Μάγκα",
+    "description": "Rebetiko narrative game set in 1922-1940 Piraeus",
+    "language": "el",
+    "version": "0.1.0"
+  },
+  "conventions": {
+    "code": {
+      "gdscript": {
+        "style": "snake_case",
+        "indent": "tab",
+        "documentation": "required for public functions"
+      },
+      "python": {
+        "style": "snake_case",
+        "type_hints": true,
+        "docstrings": true
+      },
+      "json": {
+        "keys": "snake_case",
+        "indent": 2
+      }
+    },
+    "files": {
+      "encoding": "utf-8",
+      "line_endings": "lf"
+    },
+    "naming": {
+      "storylets": "[location]_[category]_[descriptor]",
+      "npcs": "lowercase_no_spaces",
+      "flags": "snake_case_verb_noun",
+      "assets": "[type]_[name]_[variant]_v[version]"
+    }
+  },
+  "context": {
+    "primaryDocs": [
+      "CLAUDE.md",
+      "docs/DESIGN.md",
+      "docs/STORYLET_FORMAT.md",
+      "docs/GAME_STATE.md"
+    ],
+    "alwaysInclude": [
+      "research/slang_glossary.md"
+    ]
+  },
+  "generation": {
+    "language": "Greek",
+    "useRAG": true,
+    "ragCollections": ["kounadis_songs", "research_entries", "slang_glossary"],
+    "defaultModel": "claude-sonnet-4-20250514"
+  },
+  "mcpServers": {
+    "notion": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "NOTION_API_KEY": "${NOTION_API_KEY}"
+      }
+    }
+  },
   "hooks": {
     "PostToolUse": [
       {

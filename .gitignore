@@ -17,6 +17,14 @@ env/
 # uv
 .uv/
 
+# Godot
+.godot/
+*.import
+export_presets.cfg
+
+# ChromaDB
+database/chromadb/
+
 # IDEs
 .vscode/*
 !.vscode/settings.json
@@ -31,6 +39,11 @@ Thumbs.db
 
 # Logs (command audit logs from Claude Code hooks)
 logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
 
 # Coverage reports
 htmlcov/
@@ -54,3 +67,15 @@ dmypy.json
 build/
 dist/
 *.egg-info/
+*.exe
+
+# Large assets (track with Git LFS instead)
+*.wav
+*.mp3
+*.ogg
+*.psd
+*.xcf
+
+# Secrets
+*.key
+notion_token.txt

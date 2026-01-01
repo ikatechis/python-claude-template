@@ -1,85 +1,151 @@
-# Python Project Template
+# Ο Δρόμος του Μάγκα
+### A Rebetiko Story Game
 
-A modern Python project template with Claude Code best practices, automated tooling, and CI/CD.
+Narrative-driven point-and-click game set in 1922-1940 Piraeus. Experience the world that created rebetiko music — not as a tourist, but as someone fighting to survive within it.
 
-## Features
+**Language:** Ελληνικά (Greek)
 
-- **Python 3.12** with pyenv
-- **uv** package manager (fast, modern)
-- **ruff** linting and formatting
-- **mypy** type checking
-- **pytest** with coverage
-- **pre-commit** hooks
-- **GitHub Actions** CI/CD (lint, type-check, test)
-- **Gemini Code Review** for PRs
-- **Claude Code** hooks and automation
-- **MCP servers**: GitHub + ref.tools
+---
 
-## Quick Start
+## Overview
+
+You are a refugee. You arrived in Piraeus from Smyrna in 1922, after the catastrophe. You have nothing — no family, no money, no future. Just survival.
+
+But there is music. In the hash dens and basement taverns, in the smoke and the cheap wine, men play the bouzouki and sing of pain, of longing, of defiance. This is rebetiko. This is where you might find something worth living for.
+
+### Core Pillars
+
+1. **Historical Authenticity** — Grounded in the Kounadis Archive and primary research
+2. **Emergent Narrative** — Systems create stories, not scripted branches
+3. **Musical Identity** — Songs as tools, performance as gameplay
+4. **Meaningful Choices** — Every decision has weight in a zero-sum economy
+
+---
+
+## Project Structure
+
+```
+rebetiko-game/
+├── CLAUDE.md                 # Claude Code context file
+├── README.md                 # This file
+├── .gitignore
+├── .claude/                  # Claude Code settings
+│   └── settings.json
+├── docs/                     # Design documentation
+│   ├── DESIGN.md             # Game Design Document
+│   ├── STORYLET_FORMAT.md    # Storylet JSON specification
+│   ├── GAME_STATE.md         # Game state schema
+│   ├── ART_GUIDE.md          # Visual style & prompts
+│   ├── RAG_SETUP.md          # RAG pipeline guide
+│   └── NOTION_SETUP.md       # Project management setup
+├── database/                 # SQLite databases
+│   └── schema.sql            # Database schema
+├── research/                 # Historical materials
+│   ├── IDEAS.md              # Brainstorming pool
+│   └── slang_glossary.md     # Period terminology
+├── art_pipeline/             # Image generation
+│   ├── prompts/              # Working prompts
+│   ├── references/           # Historical photos
+│   └── outputs/              # Generated images
+├── tools/                    # Python utilities (to be created)
+└── godot/                    # Godot project (to be created)
+```
+
+---
+
+## Tech Stack
+
+| Component | Tool | Notes |
+|-----------|------|-------|
+| Game Engine | Godot 4.x | GDScript |
+| Narrative | Custom JSON Storylets | Not Ink — systemic, not branching |
+| Database | SQLite | Game content + Kounadis archive |
+| Vector Search | ChromaDB | For RAG semantic search |
+| LLM | Claude API | Content generation |
+| Image Gen | Grok → ComfyUI | Concepts → Production |
+| Project Mgmt | Notion | Via MCP server |
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.10+
+- Godot 4.x
+- Node.js (for Notion MCP)
+- Your Kounadis database
+
+### Setup
 
 ```bash
-# Prerequisites: Python 3.12 (via pyenv) + uv package manager
+# 1. Clone the repo
+git clone <your-repo>
+cd rebetiko-game
 
-# Clone and setup
-git clone <repo-url>
-cd <project-name>
-uv sync
+# 2. Create Python environment
+python -m venv venv
+source venv/bin/activate
 
-# Run (customize src/main.py first)
-uv run python src/main.py
+# 3. Install dependencies
+pip install chromadb anthropic sqlite-utils pandas sentence-transformers
 
-# Run with debug logging
-DEBUG=1 uv run python src/main.py
+# 4. Initialize ChromaDB (see docs/RAG_SETUP.md)
+# 5. Embed your Kounadis data
+# 6. Set up Notion MCP (see docs/NOTION_SETUP.md)
 ```
 
-## Development
+### Key Documentation
 
-### Commands
+Start here:
+1. `CLAUDE.md` — Project overview and context
+2. `docs/DESIGN.md` — Full game design document
+3. `docs/STORYLET_FORMAT.md` — How storylets work
+4. `docs/RAG_SETUP.md` — Setting up the RAG pipeline
 
-```bash
-# Run tests
-uv run pytest
+---
 
-# Code quality
-uv run ruff check src/
-uv run ruff format src/
-uv run mypy src/
+## Development Phases
 
-# Pre-commit hooks
-pre-commit install
-pre-commit run --all-files
-```
+| Phase | Focus | Duration | Status |
+|-------|-------|----------|--------|
+| **0: Foundation** | Tools, docs, pipeline | 2-3 weeks | **Current** |
+| 1: PoC | Tekes only, 5 NPCs, 3 days | 2-3 months | Planned |
+| 2: Vertical Slice | 4 locations, 15 NPCs, demo | 3-4 months | Planned |
+| 3: Production | Full game | 8-12 months | Planned |
 
-### Project Structure
+---
 
-```
-project/
-├── .claude/           # Claude Code configuration
-│   ├── hooks/         # Auto-format, command logging, session start
-│   └── skills/        # Python testing skill
-├── .gemini/           # Gemini code review settings
-├── .github/           # CI/CD workflows
-│   └── workflows/
-│       └── ci.yml     # Automated testing and checks
-├── src/               # Source code
-│   ├── logger.py      # Logging configuration
-│   └── config.py      # Configuration classes
-├── tests/             # Test files
-│   └── conftest.py    # Shared fixtures
-├── logs/              # Log files (git-ignored)
-└── pyproject.toml     # Project configuration
-```
+## The Four Tracks
 
-## Customization
+Players can pursue four paths (not mutually exclusive):
 
-After cloning, customize these files:
+- **Ο Μουσικός** — The Musician. Learn bouzouki, perform, record.
+- **Ο Μάγκας** — The Underworld. Crime, protection, the knife.
+- **Ο Ναύτης** — The Sailor. Ships, escape, exile.
+- **Ο Εργάτης** — The Worker. The docks, honest labor.
 
-1. **pyproject.toml** - Project name, description, dependencies
-2. **src/config.py** - Application-specific settings
-3. **tests/conftest.py** - Project-specific fixtures
-4. **CLAUDE.md** - Project-specific notes section
-5. **README.md** - This file
+The player isn't locked into a path — they accumulate *affinity* based on choices.
+
+---
+
+## Historical Era
+
+- **1922:** Arrival from Smyrna, refugee camps
+- **1922-1926:** Learning years, establishing in Piraeus
+- **1926-1936:** Golden era of rebetiko
+- **1936-1940:** Metaxas dictatorship, censorship
+
+---
 
 ## License
 
-[Choose your license]
+TBD
+
+---
+
+## Acknowledgments
+
+- Kounadis Archive
+- The rebetes who lived this history
+- Η μνήμη τους να είναι αιώνια
