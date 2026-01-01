@@ -313,8 +313,8 @@ NPCs are inspired by real figures but fictionalized:
 ### 7.3 Voice
 
 - **Approach:** Key lines voiced, most text-only
-- **Language:** Greek with subtitles, or bilingual option
-- **Dialect:** Era-appropriate Piraeus slang
+- **Language:** English prose with authentic Greek terms and exclamations (see LANGUAGE_GUIDE.md)
+- **Dialect:** Era-appropriate Piraeus slang integrated naturally
 
 ---
 
@@ -354,8 +354,7 @@ NPCs are inspired by real figures but fictionalized:
 ## 9. Open Questions
 
 - [ ] Protagonist: Fixed or player-created?
-- [x] Language: Greek-first or English-first? **→ Greek-first (decided)**
-- [ ] Protagonist: Fixed or player-created?
+- [x] Language: Greek-first or English-first? **→ English with Greek elements (see LANGUAGE_GUIDE.md)**
 - [ ] Scope of PoC: 3 days or 7 days?
 - [ ] Music minigame: QTE, rhythm, or narrative only?
 - [ ] Violence: How explicit?
@@ -369,6 +368,7 @@ NPCs are inspired by real figures but fictionalized:
 - `/research/IDEAS.md` — Brainstorming and idea pool
 - `/docs/STORYLET_FORMAT.md` — Storylet JSON specification
 - `/docs/GAME_STATE.md` — Game state schema
+- `/docs/LANGUAGE_GUIDE.md` — Language and localization guidelines
 - `/docs/RAG_SETUP.md` — RAG pipeline setup
 - `/docs/ART_GUIDE.md` — Visual style guide
 - `/docs/NOTION_SETUP.md` — Project management setup

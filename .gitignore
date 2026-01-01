@@ -22,8 +22,15 @@ env/
 *.import
 export_presets.cfg
 
-# ChromaDB
+# Databases (too large for git)
+*.db
 database/chromadb/
+database/vmrebetiko_archive/
+database/vmrebetiko_all_genres_archive/
+
+# Screenshots (temporary)
+*.png
+Screenshot*
 
 # IDEs
 .vscode/*

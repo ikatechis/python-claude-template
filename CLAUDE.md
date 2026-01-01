@@ -1,3 +1,9 @@
+---
+status: stable
+version: 2.0.0
+last_updated: 2026-01-01
+---
+
 # Ο ΔΡΟΜΟΣ ΤΟΥ ΜΑΓΚΑ (The Road of the Mangas)
 
 A narrative-driven point-and-click game set in the rebetiko underworld of 1922-1940 Piraeus.
@@ -20,7 +26,7 @@ Players experience the life of a refugee arriving from the Asia Minor catastroph
 - **Vector Search:** ChromaDB for semantic search and RAG
 - **LLM Integration:** Claude API for content generation
 - **Image Generation:** Grok/Midjourney for concepts, ComfyUI for production
-- **Project Management:** Notion (via MCP server)
+- **Project Management:** GitHub Projects & Issues
 - **Python:** 3.12 (pyenv) for tools and scripts
 - **Package Manager:** uv
 - **Testing:** pytest + coverage
@@ -28,7 +34,7 @@ Players experience the life of a refugee arriving from the Asia Minor catastroph
 
 ## Language
 
-**The game is in Greek (Ελληνικά).** All storylets, dialogue, and UI are written in Greek. English translation is a Phase 2+ concern.
+**The game is written in English with Greek elements preserved for authenticity.** Narrative prose, dialogue, and UI are in English, but Greek terms are integrated naturally where they capture untranslatable concepts (μάγκας, ντέρτι, κέφι, etc.). An in-game glossary ("Λέξεις") teaches Greek vocabulary contextually. See `docs/LANGUAGE_GUIDE.md` for detailed guidelines.
 
 ## RAG Pipeline
 
@@ -52,7 +58,6 @@ rebetiko-game/
 │   ├── data/             # JSON storylets, NPCs, songs
 │   ├── scenes/           # Godot scenes
 │   └── scripts/          # GDScript files
-└── notion/               # Notion export/templates
 ```
 
 ## Key Concepts
@@ -78,7 +83,7 @@ Players can pursue four paths (not mutually exclusive):
 ### Before Making Changes
 1. Check `docs/DESIGN.md` for current design decisions
 2. Check `docs/STORYLET_FORMAT.md` for JSON schema
-3. Check `database/schema.sql` for data structure
+3. Check `docs/DATABASE_MIGRATIONS.md` for database schema and migrations
 
 ### Code Conventions
 - GDScript: Use snake_case, document public functions
@@ -126,14 +131,16 @@ last_updated: 2025-01-01
 ## Key Files
 
 - `docs/DESIGN.md` — Game design document
+- `docs/ROADMAP.md` — Development roadmap and phase breakdown
 - `docs/STORYLET_FORMAT.md` — Storylet JSON specification
 - `docs/GAME_STATE.md` — Game state schema
+- `docs/LANGUAGE_GUIDE.md` — Language and localization guidelines
 - `docs/ART_GUIDE.md` — Visual style and prompt engineering
 - `docs/RAG_SETUP.md` — RAG pipeline documentation
 - `docs/NOTION_SETUP.md` — Project management setup
-- `research/IDEAS.md` — Brainstorming and idea pool
+- `ideas/IDEAS.md` — Brainstorming and idea pool
 - `research/slang_glossary.md` — Period terminology reference
-- `database/schema.sql` — Database schema
+- `docs/DATABASE_MIGRATIONS.md` — Database schema and Alembic migrations
 
 ---
 

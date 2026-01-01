@@ -10,6 +10,13 @@
     "ref": {
       "type": "http",
       "url": "https://api.ref.tools/mcp?apiKey=${REF_TOOLS_API_KEY}"
+    },
+    "sqlite": {
+      "command": "uvx",
+      "args": [
+        "mcp-sqlite",
+        "/root/projects/rebetiko-game/database/vmrebetiko_all_genres.db"
+      ]
     }
   }
 }

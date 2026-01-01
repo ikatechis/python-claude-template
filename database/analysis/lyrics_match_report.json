@@ -1,0 +1,5206 @@
+{
+  "metadata": {
+    "total_lyrics": 649,
+    "certain": 171,
+    "uncertain": 89,
+    "likely_wrong": 389
+  },
+  "certain": [
+    {
+      "lyric_title": "Αγιοθοδωρίτισσα",
+      "url_slug": "agiothodwritissa",
+      "matched_db_title": "Αγιοθοδωρίτισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10490"
+    },
+    {
+      "lyric_title": "Αδυνάτισα ο καημένος",
+      "url_slug": "adynatisa-o-kahmenos",
+      "matched_db_title": "Αδυνάτισα ο καημένος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10710"
+    },
+    {
+      "lyric_title": "Αερόπλανο θα πάρω",
+      "url_slug": "aeroplano-tha-parw",
+      "matched_db_title": "Αερόπλανο θα πάρω",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11099"
+    },
+    {
+      "lyric_title": "Αλανιάρα μερακλού",
+      "url_slug": "alaniara-meraklou",
+      "matched_db_title": "Αλανιάρα μερακλού",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10468"
+    },
+    {
+      "lyric_title": "Αλανιαρα χασικλού",
+      "url_slug": "alaniara-xasiklou",
+      "matched_db_title": "Αλανιάρα χασικλού",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10168"
+    },
+    {
+      "lyric_title": "Αλατσατιανή",
+      "url_slug": "alatsatianh",
+      "matched_db_title": "Αλατσατιανή",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4187"
+    },
+    {
+      "lyric_title": "Αλεξανδριανή φελάχα",
+      "url_slug": "aleksandrianh-felaxa",
+      "matched_db_title": "Αλεξανδριανή φελάχα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11366"
+    },
+    {
+      "lyric_title": "Άμαν Κατερίνα μου",
+      "url_slug": "aman-katerina-mou",
+      "matched_db_title": "Αμάν Κατερίνα μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10507"
+    },
+    {
+      "lyric_title": "Απεφάσισα πουλί μου",
+      "url_slug": "apefasisa-pouli-mou",
+      "matched_db_title": "Απεφάσισα πουλί μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4890"
+    },
+    {
+      "lyric_title": "Απο λίγο λίγο",
+      "url_slug": "apo-ligo-ligo",
+      "matched_db_title": "Από λίγο λίγο",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4480"
+    },
+    {
+      "lyric_title": "Από ξένο τόπο",
+      "url_slug": "apo-kseno-topo",
+      "matched_db_title": "Από ξένο τόπο",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "2148"
+    },
+    {
+      "lyric_title": "Αραπίνα μου σκερτσόζα",
+      "url_slug": "arapina-mou-skertsoza",
+      "matched_db_title": "Αραπίνα μου σκερτσόζα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4291"
+    },
+    {
+      "lyric_title": "Αργιλές(Αργιλέ μου παινεμένε)",
+      "url_slug": "argiles--argile-mou-painemene",
+      "matched_db_title": "Αργιλές",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9986"
+    },
+    {
+      "lyric_title": "Ατσιγγάνα",
+      "url_slug": "atsiggana",
+      "matched_db_title": "Ατσιγγάνα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4427"
+    },
+    {
+      "lyric_title": "Βαγγελίτσα",
+      "url_slug": "baggelitsa",
+      "matched_db_title": "Βαγγελίτσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9838"
+    },
+    {
+      "lyric_title": "Βάλε με στην αγκαλιά σου",
+      "url_slug": "bale-me-sthn-agkalia-sou",
+      "matched_db_title": "Βάλε με στην αγκαλιά σου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10554"
+    },
+    {
+      "lyric_title": "Γειτόνισσα",
+      "url_slug": "geitonissa",
+      "matched_db_title": "Γειτόνισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9911"
+    },
+    {
+      "lyric_title": "Γιάνναρος",
+      "url_slug": "giannaros",
+      "matched_db_title": "Γιάνναρος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4289"
+    },
+    {
+      "lyric_title": "Γιατί φουμάρω κοκαΐνη",
+      "url_slug": "giati-foumarw-kokainh",
+      "matched_db_title": "Γιατί φουμάρω κοκαΐνη",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4153"
+    },
+    {
+      "lyric_title": "Γιοβάν Τσάους",
+      "url_slug": "gioban-tsaous",
+      "matched_db_title": "Γιοβάν Τσαούς",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11234"
+    },
+    {
+      "lyric_title": "Γιωργίτσα",
+      "url_slug": "giwrgitsa",
+      "matched_db_title": "Γιωργίτσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10103"
+    },
+    {
+      "lyric_title": "Δεν σε θέλω πια",
+      "url_slug": "den-se-thelw-pia",
+      "matched_db_title": "Δεν σε θέλω πια",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4746"
+    },
+    {
+      "lyric_title": "Δερβισάκι(Η νταμίρα)",
+      "url_slug": "derbisaki--h-ntamira",
+      "matched_db_title": "Δερβισάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11078"
+    },
+    {
+      "lyric_title": "Δυο γυφτοπούλες(Δυο γυφτοπούλες στο βουνό)",
+      "url_slug": "dyo-gyftopoules--dyo-gyftopoules-sto-bouno",
+      "matched_db_title": "Δυο γυφτοπούλες",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4756"
+    },
+    {
+      "lyric_title": "Εγώ θέλω πριγκηπέσα",
+      "url_slug": "egw-thelw-prigkhpesa",
+      "matched_db_title": "Εγώ θέλω πριγκηπέσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10816"
+    },
+    {
+      "lyric_title": "Είμαι μια τσαχπίνα",
+      "url_slug": "eimai-mia-tsaxpina",
+      "matched_db_title": "Είμαι μια τσαχπίνα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "1882"
+    },
+    {
+      "lyric_title": "Έλα κοντά μου",
+      "url_slug": "ela-konta-mou",
+      "matched_db_title": "Έλα κοντά μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "5251"
+    },
+    {
+      "lyric_title": "Ελενίτσα(Τα ματάκια σου τα δυό)",
+      "url_slug": "elenitsa--ta-matakia-sou-ta-dyo",
+      "matched_db_title": "Ελενίτσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9612"
+    },
+    {
+      "lyric_title": "Εργάτης τιμημένος",
+      "url_slug": "ergaths-timhmenos",
+      "matched_db_title": "Εργάτης τιμημένος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4158"
+    },
+    {
+      "lyric_title": "Έχασα μαντήλι",
+      "url_slug": "exasa-manthli",
+      "matched_db_title": "Έχασα μαντήλι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9484"
+    },
+    {
+      "lyric_title": "Η Γερακίνα",
+      "url_slug": "h-gerakina",
+      "matched_db_title": "Η Γερακίνα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "2775"
+    },
+    {
+      "lyric_title": "Η Ελένη η ζωντοχήρα",
+      "url_slug": "h-elenh-h-zwntoxhra",
+      "matched_db_title": "Η Ελένη η ζωντοχήρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9725"
+    },
+    {
+      "lyric_title": "Η Κούλα",
+      "url_slug": "h-koula",
+      "matched_db_title": "Η Κούλα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10693"
+    },
+    {
+      "lyric_title": "Η βασίλισσα",
+      "url_slug": "h-basilissa",
+      "matched_db_title": "Η βασίλισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4144"
+    },
+    {
+      "lyric_title": "Η κόρη του παπά",
+      "url_slug": "h-korh-tou-papa",
+      "matched_db_title": "Η κόρη του παπά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "5317"
+    },
+    {
+      "lyric_title": "Η μπαμπέσα",
+      "url_slug": "h-mpampesa",
+      "matched_db_title": "Η μπαμπέσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10545"
+    },
+    {
+      "lyric_title": "Η πεντάμορφη",
+      "url_slug": "h-pentamorfh",
+      "matched_db_title": "Η πεντάμορφη",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "14"
+    },
+    {
+      "lyric_title": "Η ταβέρνα και το ζάρι",
+      "url_slug": "h-taberna-kai-to-zari",
+      "matched_db_title": "Η ταβέρνα και το ζάρι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4204"
+    },
+    {
+      "lyric_title": "Η τράτα",
+      "url_slug": "h-trata",
+      "matched_db_title": "Η τράτα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4143"
+    },
+    {
+      "lyric_title": "Η τσαχπίνα(Έλα μικρούλα)",
+      "url_slug": "h-tsaxpina--ela-mikroula",
+      "matched_db_title": "Η τσαχπίνα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4733"
+    },
+    {
+      "lyric_title": "Η φυλακή είναι σχολείο",
+      "url_slug": "h-fylakh-einai-sxoleio",
+      "matched_db_title": "Η φυλακή είναι σχολείο",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10699"
+    },
+    {
+      "lyric_title": "Ήμουνα μόρτης μια φορά",
+      "url_slug": "hmouna-morths-mia-fora",
+      "matched_db_title": "Ήμουνα μόρτης μια φορά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4101"
+    },
+    {
+      "lyric_title": "Θα σπάσω κούπες",
+      "url_slug": "tha-spasw-koupes",
+      "matched_db_title": "Θα σπάσω κούπες",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4083"
+    },
+    {
+      "lyric_title": "Θέλω σπίτι και λεφτά",
+      "url_slug": "thelw-spiti-kai-lefta",
+      "matched_db_title": "Θέλω σπίτι και λεφτά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11074"
+    },
+    {
+      "lyric_title": "Ικαριώτικος(Πέρα στου χωριού τη βρύση)",
+      "url_slug": "ikariwtikos--pera-stou-xwriou-th-brysh",
+      "matched_db_title": "Ικαριώτικος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "3096"
+    },
+    {
+      "lyric_title": "Κάηκε ένα σχολείο",
+      "url_slug": "kahke-ena-sxoleio",
+      "matched_db_title": "Κάηκε ένα σχολείο",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10707"
+    },
+    {
+      "lyric_title": "Καλόγρια",
+      "url_slug": "kalogria",
+      "matched_db_title": "Καλογριά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10561"
+    },
+    {
+      "lyric_title": "Καρδιοκλέφτρα",
+      "url_slug": "kardiokleftra",
+      "matched_db_title": "Καρδιοκλέφτρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9540"
+    },
+    {
+      "lyric_title": "Κατινάκι",
+      "url_slug": "katinaki",
+      "matched_db_title": "Κατινάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11452"
+    },
+    {
+      "lyric_title": "Κατινάκι μη θυμώνεις",
+      "url_slug": "katinaki-mh-thymwneis",
+      "matched_db_title": "Κατινάκι μη θυμώνεις",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4977"
+    },
+    {
+      "lyric_title": "Κατινάκι μου για σένα",
+      "url_slug": "katinaki-mou-gia-sena",
+      "matched_db_title": "Κατινάκι μου για σένα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9969"
+    },
+    {
+      "lyric_title": "Κάτω στα λεμονάδικα(Οι λαχανάδες)",
+      "url_slug": "katw-sta-lemonadika--oi-laxanades",
+      "matched_db_title": "Οι λαχανάδες",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "10546"
+    },
+    {
+      "lyric_title": "Κουκλάκι",
+      "url_slug": "kouklaki",
+      "matched_db_title": "Κουκλάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9548"
+    },
+    {
+      "lyric_title": "Λάλα αηδόνι μου γλυκά",
+      "url_slug": "lala-ahdoni-mou-glyka",
+      "matched_db_title": "Λάλα αηδόνι μου γλυκά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4171"
+    },
+    {
+      "lyric_title": "Μαναβάκι στις γειτονιές(Το γαϊδουράκι)",
+      "url_slug": "manabaki-stis-geitonies--to-gaidouraki",
+      "matched_db_title": "Το γαϊδουράκι",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "5441"
+    },
+    {
+      "lyric_title": "Μανάκι μου",
+      "url_slug": "manaki-mou",
+      "matched_db_title": "Μανάκι μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10309"
+    },
+    {
+      "lyric_title": "Μανταλιώ(Μανταλένα)",
+      "url_slug": "mantaliw--mantalena",
+      "matched_db_title": "Μανταλένα",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "4048"
+    },
+    {
+      "lyric_title": "Μαύρη ζωή μικρούλα μου",
+      "url_slug": "mayrh-zwh-mikroula-mou",
+      "matched_db_title": "Μαύρη ζωή μικρούλα μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10277"
+    },
+    {
+      "lyric_title": "Με δυο φιλιά σου ψεύτικα(Ξεμυαλίστρα)",
+      "url_slug": "me-dyo-filia-sou-pseutika--ksemyalistra",
+      "matched_db_title": "Ξεμυαλίστρα",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "4698"
+    },
+    {
+      "lyric_title": "Με τυλίξανε δυο φίνες",
+      "url_slug": "me-tyliksane-dyo-fines",
+      "matched_db_title": "Με τυλίξανε δυο φίνες",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10566"
+    },
+    {
+      "lyric_title": "Μες στου Μάνθου τον τεκέ",
+      "url_slug": "mes-stou-manthou-ton-teke",
+      "matched_db_title": "Μες στου Μάνθου τον τεκέ",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9733"
+    },
+    {
+      "lyric_title": "Μη με στέλνεις μάνα στην Αμερική",
+      "url_slug": "mh-me-stelneis-mana-sthn-amerikh",
+      "matched_db_title": "Μη με στέλνεις μάνα στην Αμερική",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "2164"
+    },
+    {
+      "lyric_title": "Μήλο μου και μανταρίνι",
+      "url_slug": "mhlo-mou-kai-mantarini",
+      "matched_db_title": "Μήλο μου και μανταρίνι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4081"
+    },
+    {
+      "lyric_title": "Μην ορκίζεσαι βρε ψεύτρα",
+      "url_slug": "mhn-orkizesai-bre-pseutra",
+      "matched_db_title": "Μην ορκίζεσαι βρε ψεύτρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4888"
+    },
+    {
+      "lyric_title": "Μοντέρνα χήρα",
+      "url_slug": "monterna-xhra",
+      "matched_db_title": "Μοντέρνα χήρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9895"
+    },
+    {
+      "lyric_title": "Μόρτισσα",
+      "url_slug": "mortissa",
+      "matched_db_title": "Μόρτισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4521"
+    },
+    {
+      "lyric_title": "Μπουρνοβαλιά",
+      "url_slug": "mpournobalia",
+      "matched_db_title": "Μπουρνοβαλιά",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9627"
+    },
+    {
+      "lyric_title": "Μπραΐλα(Βραΐλα)",
+      "url_slug": "mpraila--braila",
+      "matched_db_title": "Μπραΐλα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4114"
+    },
+    {
+      "lyric_title": "Ντερμπεντέρισσα(Βλάμισσα σερέτισσα)",
+      "url_slug": "ntermpenterissa--blamissa-seretissa",
+      "matched_db_title": "Ντερμπεντέρισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11387"
+    },
+    {
+      "lyric_title": "Ξανθιά Μοδιστρούλα(Η Μοδιστρούλα)",
+      "url_slug": "ksanthia-modistroula--h-modistroula",
+      "matched_db_title": "Η μοδιστρούλα",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "4681"
+    },
+    {
+      "lyric_title": "Ο Μεμέτης(Πού πας Μεμέτη μου)",
+      "url_slug": "o-memeths--pou-pas-memeth-mou",
+      "matched_db_title": "Ο Μεμέτης",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10600"
+    },
+    {
+      "lyric_title": "Ο Νικοκλάκιας",
+      "url_slug": "o-nikoklakias",
+      "matched_db_title": "Ο Νικοκλάκιας",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9987"
+    },
+    {
+      "lyric_title": "Ο αμαξάς(Σιγά καλέ την άμαξα)",
+      "url_slug": "o-amaksas--siga-kale-thn-amaksa",
+      "matched_db_title": "Ο αμαξάς",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4166"
+    },
+    {
+      "lyric_title": "Ο καημός του χωρισμού(Ο χωρισμός)",
+      "url_slug": "o-kahmos-tou-xwrismou--o-xwrismos",
+      "matched_db_title": "Ο χωρισμός",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "2744"
+    },
+    {
+      "lyric_title": "Ο ξέμαγκας(Βαρέθηκα τον αργιλέ)",
+      "url_slug": "o-ksemagkas--bare8hka-ton-argile",
+      "matched_db_title": "Ο ξεμάγκας",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11232"
+    },
+    {
+      "lyric_title": "Ο παραπονιάρης(Γιατί να γεννηθώ φτωχός)",
+      "url_slug": "o-paraponiarhs--giati-na-gennhthw-ftwxos",
+      "matched_db_title": "Ο παραπονιάρης",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4131"
+    },
+    {
+      "lyric_title": "Ο πινόκλης",
+      "url_slug": "o-pinoklhs",
+      "matched_db_title": "Ο Πινόκλης",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4077"
+    },
+    {
+      "lyric_title": "Ο πρεζάκιας(Είμαι πρεζάκιας, μάθε το)",
+      "url_slug": "o-prezakias--eimai-prezakias-mathe-to",
+      "matched_db_title": "Ο πρεζάκιας",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11235"
+    },
+    {
+      "lyric_title": "Ο σεβνταλής",
+      "url_slug": "o-sebntalhs",
+      "matched_db_title": "Ο σεβνταλής",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10718"
+    },
+    {
+      "lyric_title": "Ο ψαράς(Γιατί δε με θες κυρά μου)",
+      "url_slug": "o-psaras--giati-de-me-thes-kyra-mou",
+      "matched_db_title": "Ο ψαράς",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4127"
+    },
+    {
+      "lyric_title": "Ο ψύλλος",
+      "url_slug": "o-psyllos",
+      "matched_db_title": "Ο ψύλλος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9873"
+    },
+    {
+      "lyric_title": "Οι Ψαράδες(Σε καινούργια βάρκα μπήκα)",
+      "url_slug": "oi-psarades--se-kainourgia-barka-mphka",
+      "matched_db_title": "Οι ψαράδες",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9508"
+    },
+    {
+      "lyric_title": "Όποιος ορφάνεψε μικρός(Από μικρός ορφάνεψα)",
+      "url_slug": "opoios-orfanepse-mikros--apo-mikros-orfanepsa",
+      "matched_db_title": "Όποιος ορφάνεψε μικρός",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9715"
+    },
+    {
+      "lyric_title": "Όταν σε βλέπω να γυρίζεις(Τα μαναβάκια)",
+      "url_slug": "otan-se-blepw-na-gyrizeis--ta-manabakia",
+      "matched_db_title": "Όταν σε βλέπω να γυρίζεις",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10664"
+    },
+    {
+      "lyric_title": "Ούζο μορφίνη κ χασίς(Ούζο χασίς)",
+      "url_slug": "ouzo-morfinh-k-xasis--ouzo-xasis",
+      "matched_db_title": "Ούζο χασίς",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "11118"
+    },
+    {
+      "lyric_title": "Παίζει το μπαγλαμάδακι(Οι μπαγλαμάδες)",
+      "url_slug": "paizei-to-mpaglamadaki--oi-mpaglamades",
+      "matched_db_title": "Οι μπαγλαμάδες",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "11096"
+    },
+    {
+      "lyric_title": "Παιχνιδιάρα",
+      "url_slug": "paixnidiara",
+      "matched_db_title": "Παιχνιδιάρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9989"
+    },
+    {
+      "lyric_title": "Παραπονιούνται οι μάγκες μας",
+      "url_slug": "paraponiountai-oi-magkes-mas",
+      "matched_db_title": "Παραπονιούνται οι μάγκες μας",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9726"
+    },
+    {
+      "lyric_title": "Πεισματάρα",
+      "url_slug": "peismatara",
+      "matched_db_title": "Πεισματάρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4712"
+    },
+    {
+      "lyric_title": "Πίνω και μεθώ",
+      "url_slug": "pinw-kai-methw",
+      "matched_db_title": "Πίνω και μεθώ",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "5536"
+    },
+    {
+      "lyric_title": "Πόσο λυπάμαι",
+      "url_slug": "poso-lypamai",
+      "matched_db_title": "Πόσο λυπάμαι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "1489"
+    },
+    {
+      "lyric_title": "Πότε μαύρα, πότε άσπρα",
+      "url_slug": "pote-mayra-pote-aspra",
+      "matched_db_title": "Πότε μαύρα, πότε άσπρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4195"
+    },
+    {
+      "lyric_title": "Που να βρω γυναίκα να σου μοιάζει",
+      "url_slug": "pou-na-brw-gynaika-na-sou-moiazei",
+      "matched_db_title": "Πού να βρω γυναίκα να σου μοιάζει",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11073"
+    },
+    {
+      "lyric_title": "Σε γελάσανε",
+      "url_slug": "se-gelasane",
+      "matched_db_title": "Σε γελάσανε",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11525"
+    },
+    {
+      "lyric_title": "Σμυρνιά μου το φακιόλι σου",
+      "url_slug": "smyrnia-mou-to-fakioli-sou",
+      "matched_db_title": "Σμυρνιά μου το φακιόλι σου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10117"
+    },
+    {
+      "lyric_title": "Σουζάνα κράτησε μυαλό",
+      "url_slug": "souzana-krathse-myalo",
+      "matched_db_title": "Σουζάνα κράτησε μυαλό",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9710"
+    },
+    {
+      "lyric_title": "Στη φυλακή με βάλανε(Γιαφ Γιουφ)",
+      "url_slug": "sth-fylakh-me-balane--giaf-giouf",
+      "matched_db_title": "Στη φυλακή με βάλανε",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4089"
+    },
+    {
+      "lyric_title": "Στην υπόγα",
+      "url_slug": "sthn-ypoga",
+      "matched_db_title": "Στην υπόγα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10705"
+    },
+    {
+      "lyric_title": "Στο καφέ αμάν(Η τσαχπίνα)",
+      "url_slug": "sto-kafe-aman--h-tsaxpina",
+      "matched_db_title": "Στο καφέ αμάν",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9920"
+    },
+    {
+      "lyric_title": "Σύρε το πασουμάκι σου",
+      "url_slug": "syre-to-pasoumaki-sou",
+      "matched_db_title": "Σύρε το πασουμάκι σου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10308"
+    },
+    {
+      "lyric_title": "Σύρος",
+      "url_slug": "syros",
+      "matched_db_title": "Σύρος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "741"
+    },
+    {
+      "lyric_title": "Τα ματάκια σου τα μαύρα",
+      "url_slug": "ta-matakia-sou-ta-mayra",
+      "matched_db_title": "Τα ματάκια σου τα μαύρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "3178"
+    },
+    {
+      "lyric_title": "Ταταυλιανή τσαχπίνα(Απ’ την Πόλη ήρθε μια προχτές)",
+      "url_slug": "tataulianh-tsaxpina--ap-thn-polh-hrthe-mia-proxtes",
+      "matched_db_title": "Ταταυλιανή τσαχπίνα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4132"
+    },
+    {
+      "lyric_title": "Τηλεγράφημα στην Κάρμεν",
+      "url_slug": "thlegrafhma-sthn-karmen",
+      "matched_db_title": "Τηλεγράφημα στην Κάρμεν",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11350"
+    },
+    {
+      "lyric_title": "Τίκι Τίκι Τακ",
+      "url_slug": "tiki-tiki-tak",
+      "matched_db_title": "Τίκι τίκι τακ",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "11278"
+    },
+    {
+      "lyric_title": "Το Αλανάκι(Αλανάκι μαγκίτης)",
+      "url_slug": "to-alanaki--alanaki-magkiths",
+      "matched_db_title": "Το αλανάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10439"
+    },
+    {
+      "lyric_title": "Το Ερηνάκι(Φέρτε πρέζα να πρεζάρω)",
+      "url_slug": "to-erhnaki--ferte-preza-na-prezarw",
+      "matched_db_title": "Το Ερηνάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "3188"
+    },
+    {
+      "lyric_title": "Το γλυκό φιλί",
+      "url_slug": "to-glyko-fili",
+      "matched_db_title": "Το γλυκό φιλί",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4161"
+    },
+    {
+      "lyric_title": "Το καλοκαίρι τώρα",
+      "url_slug": "to-kalokairi-twra",
+      "matched_db_title": "Το καλοκαίρι τώρα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10562"
+    },
+    {
+      "lyric_title": "Το κουκλί της Κοκκινιάς",
+      "url_slug": "to-koukli-ths-kokkinias",
+      "matched_db_title": "Το κουκλί της Κοκκινιάς",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9750"
+    },
+    {
+      "lyric_title": "Το κουτσαβάκι(Βρε μάγκα το μαχαίρι σου)",
+      "url_slug": "to-koutsabaki--bre-magka-to-maxairi-sou",
+      "matched_db_title": "Το κουτσαβάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4180"
+    },
+    {
+      "lyric_title": "Το μαναβάκι",
+      "url_slug": "to-manabaki",
+      "matched_db_title": "Το μαναβάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9919"
+    },
+    {
+      "lyric_title": "Το μινόρε της ταβέρνας(Τα βλαμάκια)",
+      "url_slug": "to-minore-ths-tabernas--ta-blamakia",
+      "matched_db_title": "Το μινόρε της ταβέρνας",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10519"
+    },
+    {
+      "lyric_title": "Το μωρό μου",
+      "url_slug": "to-mwro-mou",
+      "matched_db_title": "Το μωρό μου",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4227"
+    },
+    {
+      "lyric_title": "Το ναυτάκι",
+      "url_slug": "to-nautaki",
+      "matched_db_title": "Το ναυτάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10536"
+    },
+    {
+      "lyric_title": "Το σακάκι",
+      "url_slug": "to-sakaki",
+      "matched_db_title": "Το σακάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4635"
+    },
+    {
+      "lyric_title": "Το τσαγκαράκι",
+      "url_slug": "to-tsagkaraki",
+      "matched_db_title": "Το τσαγκαράκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "5284"
+    },
+    {
+      "lyric_title": "Το χαρέμι στο χαμάμ(Μες στης πόλης το χαμάμ)",
+      "url_slug": "to-xaremi-sto-xamam--mes-sths-polhs-to-xamam",
+      "matched_db_title": "Το χαρέμι στο χαμάμ",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4634"
+    },
+    {
+      "lyric_title": "Του ψαρά ο γιος",
+      "url_slug": "tou-psara-o-gios",
+      "matched_db_title": "Του ψαρά ο γιος",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "9706"
+    },
+    {
+      "lyric_title": "Τουμπελέκι τουμπελέκι",
+      "url_slug": "toumpeleki-toumpeleki",
+      "matched_db_title": "Τουμπελέκι τουμπελέκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10700"
+    },
+    {
+      "lyric_title": "Τούτο το καλοκαιράκι",
+      "url_slug": "touto-to-kalokairaki",
+      "matched_db_title": "Τούτο το καλοκαιράκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10711"
+    },
+    {
+      "lyric_title": "Φαληριώτισσα(Σουρωμένος θα ‘ρθω πάλι)",
+      "url_slug": "falhriwtissa--sourwmenos-tha-rthw-pali",
+      "matched_db_title": "Φαληριώτισσα",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10428"
+    },
+    {
+      "lyric_title": "Χαρικλάκι",
+      "url_slug": "xariklaki",
+      "matched_db_title": "Χαρικλάκι",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "4626"
+    },
+    {
+      "lyric_title": "Χόρεψε μου τσιφτετέλι(Η καρδιά μου εσένα θέλει)",
+      "url_slug": "xorepse-mou-tsifteteli--h-kardia-mou-esena-thelei",
+      "matched_db_title": "Η καρδιά μου εσένα θέλει",
+      "confidence": 1.0,
+      "match_source": "subtitle",
+      "song_id": "10621"
+    },
+    {
+      "lyric_title": "Ψεύτισε πλεόν ο ντουνιάς",
+      "url_slug": "pseutise-pleon-o-ntounias",
+      "matched_db_title": "Ψεύτισε πλέον ο ντουνιάς",
+      "confidence": 1.0,
+      "match_source": "main",
+      "song_id": "10586"
+    },
+    {
+      "lyric_title": "Της τριανταφυλλιάς τα φύλλα",
+      "url_slug": "ths-triantafyllias-ta-fylla",
+      "matched_db_title": "Στης τριανταφυλλιάς τα φύλλα",
+      "confidence": 0.982,
+      "match_source": "main",
+      "song_id": "10380"
+    },
+    {
+      "lyric_title": "Χθες το βράδυ στου Καρίπη",
+      "url_slug": "xthes-to-brady-stou-kariph",
+      "matched_db_title": "Χθες το βράδυ στου Γκαρίπη",
+      "confidence": 0.98,
+      "match_source": "main",
+      "song_id": "4160"
+    },
+    {
+      "lyric_title": "Έρχομαι τον τοίχο τοίχο",
+      "url_slug": "erxomai-ton-toixo-toixo",
+      "matched_db_title": "Έρχομαι τον τοίχο, τοίχο",
+      "confidence": 0.979,
+      "match_source": "main",
+      "song_id": "11077"
+    },
+    {
+      "lyric_title": "Κουβέντες στη φυλακή",
+      "url_slug": "koubentes-sth-fylakh",
+      "matched_db_title": "Κουβέντες στην φυλακή",
+      "confidence": 0.976,
+      "match_source": "main",
+      "song_id": "10505"
+    },
+    {
+      "lyric_title": "Τι σε μέλλει εσένανε",
+      "url_slug": "ti-se-mellei-esenane",
+      "matched_db_title": "Τι σε μέλει εσένανε",
+      "confidence": 0.974,
+      "match_source": "main",
+      "song_id": "4061"
+    },
+    {
+      "lyric_title": "Πονώ δε με λυπάσαι",
+      "url_slug": "ponw-de-me-lypasai",
+      "matched_db_title": "Πονώ δεν με λυπάσαι",
+      "confidence": 0.973,
+      "match_source": "main",
+      "song_id": "10666"
+    },
+    {
+      "lyric_title": "Στα ξένα μ άφησες",
+      "url_slug": "sta-ksena-m-afhses",
+      "matched_db_title": "Στα ξένα μ' άφησες",
+      "confidence": 0.971,
+      "match_source": "main",
+      "song_id": "4302"
+    },
+    {
+      "lyric_title": "Αγάπη που ’γινες δίκοπο μαχαίρι",
+      "url_slug": "agaph-pou-gines-dikopo-maxairi",
+      "matched_db_title": "Αγάπη που 'γινες δίκοπο μαχαίρι",
+      "confidence": 0.968,
+      "match_source": "main",
+      "song_id": "3213"
+    },
+    {
+      "lyric_title": "Ελένη Ελενάρα",
+      "url_slug": "elenh-elenara",
+      "matched_db_title": "Ελένη, Ελενάρα",
+      "confidence": 0.963,
+      "match_source": "main",
+      "song_id": "10639"
+    },
+    {
+      "lyric_title": "Τα μάτια σου τ’ αράπικα",
+      "url_slug": "ta-matia-sou-t-arapika",
+      "matched_db_title": "Τα μάτια σου τ' αράπικα",
+      "confidence": 0.957,
+      "match_source": "main",
+      "song_id": "10113"
+    },
+    {
+      "lyric_title": "Η Λιλή η σκανδαλιάρα",
+      "url_slug": "h-lilh-h-skandaliara",
+      "matched_db_title": "Λιλή η σκανδαλιάρα",
+      "confidence": 0.947,
+      "match_source": "main",
+      "song_id": "9889"
+    },
+    {
+      "lyric_title": "Μανώλη κάθισε καλά",
+      "url_slug": "manwlh-kathise-kala",
+      "matched_db_title": "Μανόλη κάθισε καλά",
+      "confidence": 0.944,
+      "match_source": "main",
+      "song_id": "9701"
+    },
+    {
+      "lyric_title": "Τζάνεμ ποταμέ μου",
+      "url_slug": "tzanem-potame-mou",
+      "matched_db_title": "Τζάνε μ' ποταμέ μου",
+      "confidence": 0.944,
+      "match_source": "main",
+      "song_id": "2163"
+    },
+    {
+      "lyric_title": "Ο μάγκας του Ψυρρή",
+      "url_slug": "o-magkas-tou-psyrrh",
+      "matched_db_title": "Μάγκας του Ψυρρή",
+      "confidence": 0.941,
+      "match_source": "main",
+      "song_id": "4216"
+    },
+    {
+      "lyric_title": "Τράβα ρε μάγκα και αλάνι",
+      "url_slug": "traba-re-magka-kai-alani",
+      "matched_db_title": "Τράβα βρε μάγκα και αλάνη",
+      "confidence": 0.939,
+      "match_source": "main",
+      "song_id": "11359"
+    },
+    {
+      "lyric_title": "Μπήκε ο χειμώνας",
+      "url_slug": "mphke-o-xeimwnas",
+      "matched_db_title": "Μπήκ' ο χειμώνας",
+      "confidence": 0.938,
+      "match_source": "main",
+      "song_id": "4655"
+    },
+    {
+      "lyric_title": "Όλη μέρα παίζει ζάρια",
+      "url_slug": "olh-mera-paizei-zaria",
+      "matched_db_title": "Όλ' ημέρα παίζει ζάρια",
+      "confidence": 0.93,
+      "match_source": "main",
+      "song_id": "4275"
+    },
+    {
+      "lyric_title": "Σατράπισσα(Αραμπάς περνά)",
+      "url_slug": "satrapissa--arampas-perna",
+      "matched_db_title": "Αραμπάς περνάει",
+      "confidence": 0.929,
+      "match_source": "subtitle",
+      "song_id": "4197"
+    },
+    {
+      "lyric_title": "Η νέα μερακλού",
+      "url_slug": "h-nea-meraklou",
+      "matched_db_title": "Νέα μερακλού",
+      "confidence": 0.923,
+      "match_source": "main",
+      "song_id": "9980"
+    },
+    {
+      "lyric_title": "Φυλακισμένος",
+      "url_slug": "fylakismenos",
+      "matched_db_title": "Ο φυλακισμένος",
+      "confidence": 0.923,
+      "match_source": "main",
+      "song_id": "9836"
+    },
+    {
+      "lyric_title": "Τούτοι οι μπάτσοι που ’ρθαν τώρα",
+      "url_slug": "toutoi-oi-mpatsoi-pou-rthan-twra",
+      "matched_db_title": "Τούτ' οι μπάτσοι που 'ρθαν τώρα",
+      "confidence": 0.921,
+      "match_source": "main",
+      "song_id": "4098"
+    },
+    {
+      "lyric_title": "Νέος μάγκας",
+      "url_slug": "neos-magkas",
+      "matched_db_title": "Ο νέος μάγκας",
+      "confidence": 0.917,
+      "match_source": "main",
+      "song_id": "10677"
+    },
+    {
+      "lyric_title": "Το μινόρε της αυγής",
+      "url_slug": "to-minore-ths-aughs",
+      "matched_db_title": "Μινόρε της αυγής",
+      "confidence": 0.914,
+      "match_source": "main",
+      "song_id": "5093"
+    },
+    {
+      "lyric_title": "Αγκινάρα με τ’ αγκάθια",
+      "url_slug": "agkinara-me-t-agkathia",
+      "matched_db_title": "Αγγινάρα με τ' αγκάθια",
+      "confidence": 0.909,
+      "match_source": "main",
+      "song_id": "2999"
+    },
+    {
+      "lyric_title": "Η Βολιώτισσα",
+      "url_slug": "h-boliwtissa",
+      "matched_db_title": "Βολιώτισσα",
+      "confidence": 0.909,
+      "match_source": "main",
+      "song_id": "10437"
+    },
+    {
+      "lyric_title": "Στης Πλάκας τα στενάκια",
+      "url_slug": "sths-plakas-ta-stenakia",
+      "matched_db_title": "Της Πλάκας τα στενά",
+      "confidence": 0.905,
+      "match_source": "main",
+      "song_id": "9587"
+    },
+    {
+      "lyric_title": "Παραπονούνται οι μάγκες",
+      "url_slug": "paraponountai-oi-magkes",
+      "matched_db_title": "Παραπονιούνται οι μάγκες μας",
+      "confidence": 0.902,
+      "match_source": "main",
+      "song_id": "9726"
+    },
+    {
+      "lyric_title": "Κατάδικος",
+      "url_slug": "katadikos",
+      "matched_db_title": "Ο κατάδικος",
+      "confidence": 0.9,
+      "match_source": "main",
+      "song_id": "4941"
+    },
+    {
+      "lyric_title": "Πολίτισσα",
+      "url_slug": "politissa",
+      "matched_db_title": "Η Πολίτισσα",
+      "confidence": 0.9,
+      "match_source": "main",
+      "song_id": "4576"
+    },
+    {
+      "lyric_title": "Η γκαρσόνα",
+      "url_slug": "h-gkarsona",
+      "matched_db_title": "Γκαρσόνα",
+      "confidence": 0.889,
+      "match_source": "main",
+      "song_id": "4167"
+    },
+    {
+      "lyric_title": "Η δροσούλα(Στου Σιδέρη τον τεκέ)",
+      "url_slug": "h-drosoula--stou-siderh-ton-teke",
+      "matched_db_title": "Δροσούλα",
+      "confidence": 0.889,
+      "match_source": "main",
+      "song_id": "9542"
+    },
+    {
+      "lyric_title": "Ο Γιάννης ο χασικλής",
+      "url_slug": "o-giannhs-o-xasiklhs",
+      "matched_db_title": "Γιάννης χασικλής",
+      "confidence": 0.889,
+      "match_source": "main",
+      "song_id": "10706"
+    },
+    {
+      "lyric_title": "Ο δερβίσης",
+      "url_slug": "o-derbishs",
+      "matched_db_title": "Δερβίσης",
+      "confidence": 0.889,
+      "match_source": "main",
+      "song_id": "4113"
+    },
+    {
+      "lyric_title": "Χριστίνα",
+      "url_slug": "xristina",
+      "matched_db_title": "Η Χριστίνα",
+      "confidence": 0.889,
+      "match_source": "main",
+      "song_id": "4466"
+    },
+    {
+      "lyric_title": "Μια μικροπαντρεμένη",
+      "url_slug": "mia-mikropantremenh",
+      "matched_db_title": "Μικροπαντρεμένη",
+      "confidence": 0.882,
+      "match_source": "main",
+      "song_id": "9546"
+    },
+    {
+      "lyric_title": "Δεν σ’ αγαπώ, δεν σ’ αγαπώ",
+      "url_slug": "den-s-agapw-den-s-agapw",
+      "matched_db_title": "Δε σ' αγαπώ, δε σ' αγαπώ",
+      "confidence": 0.88,
+      "match_source": "main",
+      "song_id": "9727"
+    },
+    {
+      "lyric_title": "Παραπονιάρικο μου",
+      "url_slug": "paraponiariko-mou",
+      "matched_db_title": "Παραπονιάρα μου",
+      "confidence": 0.875,
+      "match_source": "main",
+      "song_id": "10630"
+    },
+    {
+      "lyric_title": "Αγαπώ τα μαύρα μάτια",
+      "url_slug": "agapw-ta-mayra-matia",
+      "matched_db_title": "Αυτά τα μαύρα μάτια",
+      "confidence": 0.872,
+      "match_source": "main",
+      "song_id": "4552"
+    },
+    {
+      "lyric_title": "Φτωχόπαιδο",
+      "url_slug": "ftwxopaido",
+      "matched_db_title": "Το φτωχόπαιδο",
+      "confidence": 0.87,
+      "match_source": "main",
+      "song_id": "3288"
+    },
+    {
+      "lyric_title": "Αλεξανδριανή(Κάτω στην Αλεξάνδρεια)",
+      "url_slug": "aleksandrianh--katw-sthn-aleksandreia",
+      "matched_db_title": "Στην Αλεξάνδρεια",
+      "confidence": 0.865,
+      "match_source": "subtitle",
+      "song_id": "3225"
+    },
+    {
+      "lyric_title": "Πάντα μυστικό να το ’χεις πρέπει",
+      "url_slug": "panta-mystiko-na-to-xeis-prepei",
+      "matched_db_title": "Μυστικό να το 'χεις πρέπει",
+      "confidence": 0.862,
+      "match_source": "main",
+      "song_id": "4638"
+    },
+    {
+      "lyric_title": "Γλυκιά μου μάνα",
+      "url_slug": "glykia-mou-mana",
+      "matched_db_title": "Γλυκιά μου Μαρινέλλα",
+      "confidence": 0.857,
+      "match_source": "main",
+      "song_id": "10518"
+    },
+    {
+      "lyric_title": "Δως μου ένα φιλάκι",
+      "url_slug": "dws-mou-ena-filaki",
+      "matched_db_title": "Δώσ' μου ένα φιλί",
+      "confidence": 0.857,
+      "match_source": "main",
+      "song_id": "2349"
+    },
+    {
+      "lyric_title": "Ήταν άνοιξις",
+      "url_slug": "htan-anoiksis",
+      "matched_db_title": "Η άνοιξις",
+      "confidence": 0.857,
+      "match_source": "main",
+      "song_id": "4670"
+    },
+    {
+      "lyric_title": "Σαν πεθάνω(Μάνα μου το στήθος μου πονεί)",
+      "url_slug": "san-pethanw--mana-mou-to-sththos-mou-ponei",
+      "matched_db_title": "Σαν αποθάνω",
+      "confidence": 0.857,
+      "match_source": "main",
+      "song_id": "4800"
+    },
+    {
+      "lyric_title": "Ψεύτη ντουνιά",
+      "url_slug": "pseuth-ntounia",
+      "matched_db_title": "Ψεύτικε ντουνιά",
+      "confidence": 0.857,
+      "match_source": "main",
+      "song_id": "2101"
+    }
+  ],
+  "uncertain": [
+    {
+      "lyric_title": "Στο Πασαλιμάνι",
+      "url_slug": "sto-pasalimani",
+      "matched_db_title": "Μέσα στο Πασαλιμάνι",
+      "confidence": 0.848,
+      "match_source": "main",
+      "song_id": "4300"
+    },
+    {
+      "lyric_title": "Κάτω στο Πασαλιμάνι(Γυναικομάνι)",
+      "url_slug": "katw-sto-pasalimani--gynaikomani",
+      "matched_db_title": "Μέσα στο Πασαλιμάνι",
+      "confidence": 0.842,
+      "match_source": "main",
+      "song_id": "4300"
+    },
+    {
+      "lyric_title": "Χάθηκα, χάθηκα",
+      "url_slug": "xa8hka-xa8hka",
+      "matched_db_title": "Χάθηκα, τρελάθηκα",
+      "confidence": 0.839,
+      "match_source": "main",
+      "song_id": "10547"
+    },
+    {
+      "lyric_title": "Τουρκολιμανιώτισσα γλυκιά",
+      "url_slug": "tourkolimaniwtissa-glykia",
+      "matched_db_title": "Τουρκολιμανιώτισσα",
+      "confidence": 0.837,
+      "match_source": "main",
+      "song_id": "4905"
+    },
+    {
+      "lyric_title": "Δημητρούλα μου",
+      "url_slug": "dhmhtroula-mou",
+      "matched_db_title": "Δημητρούλα",
+      "confidence": 0.833,
+      "match_source": "main",
+      "song_id": "5051"
+    },
+    {
+      "lyric_title": "Κόρη μάγισσα",
+      "url_slug": "korh-magissa",
+      "matched_db_title": "Καλή μάγισσα",
+      "confidence": 0.833,
+      "match_source": "main",
+      "song_id": "4690"
+    },
+    {
+      "lyric_title": "Κακούργα μάνα",
+      "url_slug": "kakourga-mana",
+      "matched_db_title": "Κακούργα μάγισσα",
+      "confidence": 0.828,
+      "match_source": "main",
+      "song_id": "4582"
+    },
+    {
+      "lyric_title": "Πες μου το ναι",
+      "url_slug": "pes-mou-to-nai",
+      "matched_db_title": "Πες μου ένα ναι",
+      "confidence": 0.828,
+      "match_source": "main",
+      "song_id": "1737"
+    },
+    {
+      "lyric_title": "Γι’ αυτά τα μαύρα μάτια σου",
+      "url_slug": "gi-auta-ta-mayra-matia-sou",
+      "matched_db_title": "Αυτά τα μαύρα μάτια",
+      "confidence": 0.826,
+      "match_source": "main",
+      "song_id": "4552"
+    },
+    {
+      "lyric_title": "Μην περιμένεις άδικα",
+      "url_slug": "mhn-perimeneis-adika",
+      "matched_db_title": "Μην περιμένεις",
+      "confidence": 0.824,
+      "match_source": "main",
+      "song_id": "1487"
+    },
+    {
+      "lyric_title": "Τα μαγεμένα μάτια σου",
+      "url_slug": "ta-magemena-matia-sou",
+      "matched_db_title": "Τα μαύρα μάτια σου",
+      "confidence": 0.821,
+      "match_source": "main",
+      "song_id": "9983"
+    },
+    {
+      "lyric_title": "Το γελεκακι που φορείς",
+      "url_slug": "to-gelekaki-pou-foreis",
+      "matched_db_title": "Το ρολογάκι που φορείς",
+      "confidence": 0.818,
+      "match_source": "main",
+      "song_id": "10569"
+    },
+    {
+      "lyric_title": "Μόρτισσα Σμυρνιά",
+      "url_slug": "mortissa-smyrnia",
+      "matched_db_title": "Μια Σμυρνιά",
+      "confidence": 0.815,
+      "match_source": "main",
+      "song_id": "4417"
+    },
+    {
+      "lyric_title": "Τρικαλινή τσαχπίνα",
+      "url_slug": "trikalinh-tsaxpina",
+      "matched_db_title": "Ταταυλιανή τσαχπίνα",
+      "confidence": 0.811,
+      "match_source": "main",
+      "song_id": "4132"
+    },
+    {
+      "lyric_title": "Το παράπονο του αλήτη(Αλήτη μ’ είπες μια βραδιά)",
+      "url_slug": "to-parapono-tou-alhth--alhth-m-eipes-mia-bradia",
+      "matched_db_title": "Το παράπονο του μάγκα",
+      "confidence": 0.81,
+      "match_source": "main",
+      "song_id": "11117"
+    },
+    {
+      "lyric_title": "Αχ τα όμορφά σου μάτια",
+      "url_slug": "ax-ta-omorfa-sou-matia",
+      "matched_db_title": "Τα μαύρα σου μάτια",
+      "confidence": 0.8,
+      "match_source": "main",
+      "song_id": "5187"
+    },
+    {
+      "lyric_title": "Γλυκιά μου Έλλη",
+      "url_slug": "glykia-mou-ellh",
+      "matched_db_title": "Γλυκιά μου Μαρινέλλα",
+      "confidence": 0.8,
+      "match_source": "main",
+      "song_id": "10518"
+    },
+    {
+      "lyric_title": "Καλέ μάνα δεν μπορώ",
+      "url_slug": "kale-mana-den-mporw",
+      "matched_db_title": "Σήμερα μάνα δεν μπορώ",
+      "confidence": 0.8,
+      "match_source": "main",
+      "song_id": "4169"
+    },
+    {
+      "lyric_title": "Τα ζηλιάρικα σου μάτια",
+      "url_slug": "ta-zhliarika-sou-matia",
+      "matched_db_title": "Τα μαύρα σου μάτια",
+      "confidence": 0.8,
+      "match_source": "main",
+      "song_id": "5187"
+    },
+    {
+      "lyric_title": "Ωραία Θεσσαλονικιά",
+      "url_slug": "wraia-thessalonikia",
+      "matched_db_title": "Θεσσαλονικιά",
+      "confidence": 0.8,
+      "match_source": "main",
+      "song_id": "9962"
+    },
+    {
+      "lyric_title": "Η γυναίκα που ψηφίζει",
+      "url_slug": "h-gynaika-pou-pshfizei",
+      "matched_db_title": "Η γυναίκα που πεθαίνει",
+      "confidence": 0.791,
+      "match_source": "main",
+      "song_id": "5438"
+    },
+    {
+      "lyric_title": "Αραπίνες(Νύχτες μαγικές)",
+      "url_slug": "arapines--nyxtes-magikes",
+      "matched_db_title": "Νύχτες γλυκιές",
+      "confidence": 0.786,
+      "match_source": "subtitle",
+      "song_id": "10243"
+    },
+    {
+      "lyric_title": "Πες μου γιατί δε μ’ αγαπάς",
+      "url_slug": "pes-mou-giati-de-m-agapas",
+      "matched_db_title": "Πες μου πια πως μ' αγαπάς",
+      "confidence": 0.784,
+      "match_source": "main",
+      "song_id": "1573"
+    },
+    {
+      "lyric_title": "Χτες το βράδυ στο σκοτάδι",
+      "url_slug": "xtes-to-brady-sto-skotadi",
+      "matched_db_title": "Χθες το βράδυ στου Γκαρίπη",
+      "confidence": 0.784,
+      "match_source": "main",
+      "song_id": "4160"
+    },
+    {
+      "lyric_title": "Αγία νοσταλγία",
+      "url_slug": "agia-nostalgia",
+      "matched_db_title": "Νοσταλγία",
+      "confidence": 0.783,
+      "match_source": "main",
+      "song_id": "9496"
+    },
+    {
+      "lyric_title": "Στης πίκρας τα ξερόνησα",
+      "url_slug": "sths-pikras-ta-kseronhsa",
+      "matched_db_title": "Της πίκρας το νερό",
+      "confidence": 0.78,
+      "match_source": "main",
+      "song_id": "1543"
+    },
+    {
+      "lyric_title": "Αλεξανδριανή",
+      "url_slug": "aleksandrianh",
+      "matched_db_title": "Αλεξανδριανή φελάχα",
+      "confidence": 0.774,
+      "match_source": "main",
+      "song_id": "11366"
+    },
+    {
+      "lyric_title": "Μάγες ομορφιές",
+      "url_slug": "mages-omorfies",
+      "matched_db_title": "Γαλάζιες ομορφιές",
+      "confidence": 0.774,
+      "match_source": "main",
+      "song_id": "1796"
+    },
+    {
+      "lyric_title": "Μάγκας βγήκε για σεργιάνι",
+      "url_slug": "magkas-bghke-gia-sergiani",
+      "matched_db_title": "Η οπερέτα \"Μάγκας βγήκε για συργιάνι\"",
+      "confidence": 0.774,
+      "match_source": "main",
+      "song_id": "10940"
+    },
+    {
+      "lyric_title": "Είμαι πρεζάκιας(Πρέζα όταν πιεις)",
+      "url_slug": "eimai-prezakias--preza-otan-pieis",
+      "matched_db_title": "Ο πρεζάκιας",
+      "confidence": 0.769,
+      "match_source": "main",
+      "song_id": "11235"
+    },
+    {
+      "lyric_title": "Κακούργα μου γειτόνισσα",
+      "url_slug": "kakourga-mou-geitonissa",
+      "matched_db_title": "Κακούργα μάγισσα",
+      "confidence": 0.769,
+      "match_source": "main",
+      "song_id": "4582"
+    },
+    {
+      "lyric_title": "Μη με πληγώνεις και πονώ",
+      "url_slug": "mh-me-plhgwneis-kai-ponw",
+      "matched_db_title": "Μη με πληγώνεις",
+      "confidence": 0.769,
+      "match_source": "main",
+      "song_id": "2003"
+    },
+    {
+      "lyric_title": "Τα παιδιά της γειτονιάς σου(Σαν σουρώνω)",
+      "url_slug": "ta-paidia-ths-geitonias-sou--san-sourwnw",
+      "matched_db_title": "Τα παιδιά της αγοράς",
+      "confidence": 0.766,
+      "match_source": "main",
+      "song_id": "10691"
+    },
+    {
+      "lyric_title": "Γιατί μικρούλα μου",
+      "url_slug": "giati-mikroula-mou",
+      "matched_db_title": "Για μια μικρούλα",
+      "confidence": 0.765,
+      "match_source": "main",
+      "song_id": "1843"
+    },
+    {
+      "lyric_title": "Ο Μάρκος μαθητής",
+      "url_slug": "o-markos-ma8hths",
+      "matched_db_title": "Ο Μάρκος Μπότσαρης",
+      "confidence": 0.765,
+      "match_source": "main",
+      "song_id": "5493"
+    },
+    {
+      "lyric_title": "Πες μου καλαματιανή μου",
+      "url_slug": "pes-mou-kalamatianh-mou",
+      "matched_db_title": "Νησοκαλαματιανή μου",
+      "confidence": 0.762,
+      "match_source": "main",
+      "song_id": "5551"
+    },
+    {
+      "lyric_title": "Σύρε να πεις στη μάνα σου",
+      "url_slug": "syre-na-peis-sth-mana-sou",
+      "matched_db_title": "Σύρε στη μαμά σου",
+      "confidence": 0.762,
+      "match_source": "main",
+      "song_id": "10598"
+    },
+    {
+      "lyric_title": "Καρδιά παραπονιάρα",
+      "url_slug": "kardia-paraponiara",
+      "matched_db_title": "Παραπονιάρα",
+      "confidence": 0.759,
+      "match_source": "main",
+      "song_id": "9636"
+    },
+    {
+      "lyric_title": "Στου Θωμά το μαγαζί(Έλα απόψε στου Θωμά)",
+      "url_slug": "stou-thwma-to-magazi--ela-apopse-stou-thwma",
+      "matched_db_title": "Το μικρό το μαγαζί",
+      "confidence": 0.757,
+      "match_source": "main",
+      "song_id": "2261"
+    },
+    {
+      "lyric_title": "Απ’ την πόρτα σου περνώ",
+      "url_slug": "ap-thn-porta-sou-pernw",
+      "matched_db_title": "Από το σπίτι σου περνώ",
+      "confidence": 0.756,
+      "match_source": "main",
+      "song_id": "2077"
+    },
+    {
+      "lyric_title": "Το κορίτσι θέλει θάλασσα",
+      "url_slug": "to-koritsi-thelei-thalassa",
+      "matched_db_title": "Το κορίτσι με τα ράσα",
+      "confidence": 0.756,
+      "match_source": "main",
+      "song_id": "5529"
+    },
+    {
+      "lyric_title": "Για Μια Ξανθούλα(Τραγούδια Όμορφα Θα Πω)",
+      "url_slug": "gia-mia-ksanthoula--tragoudia-omorfa-tha-pw",
+      "matched_db_title": "Για μια μικρούλα",
+      "confidence": 0.75,
+      "match_source": "main",
+      "song_id": "1843"
+    },
+    {
+      "lyric_title": "Γιατί γελάτε(Ο Στραπατσαρισμένος)",
+      "url_slug": "giati-gelate--o-strapatsarismenos",
+      "matched_db_title": "Γιατί, γιατί",
+      "confidence": 0.75,
+      "match_source": "main",
+      "song_id": "9844"
+    },
+    {
+      "lyric_title": "Δε θέλω πια την ξενιτιά",
+      "url_slug": "de-thelw-pia-thn-ksenitia",
+      "matched_db_title": "Δεν θέλω πια να με κοιτάς",
+      "confidence": 0.75,
+      "match_source": "main",
+      "song_id": "10668"
+    },
+    {
+      "lyric_title": "Δε με στεφανώνεις(Τι σε μέλει εσένα κι αν γυρνώ)",
+      "url_slug": "de-me-stefanwneis--ti-se-melei-esena-ki-an-gyrnw",
+      "matched_db_title": "Τι σε μέλει εσένανε",
+      "confidence": 0.75,
+      "match_source": "subtitle",
+      "song_id": "4061"
+    },
+    {
+      "lyric_title": "Μαρίκα Χασικλού",
+      "url_slug": "marika-xasiklou",
+      "matched_db_title": "Αλανιάρα χασικλού",
+      "confidence": 0.75,
+      "match_source": "main",
+      "song_id": "10168"
+    },
+    {
+      "lyric_title": "Το γλέντι",
+      "url_slug": "to-glenti",
+      "matched_db_title": "Όλοι στο γλέντι",
+      "confidence": 0.75,
+      "match_source": "main",
+      "song_id": "9677"
+    },
+    {
+      "lyric_title": "Σαν απόκληρος γυρίζω(Το παράπονο του ξενιτεμένου)",
+      "url_slug": "san-apoklhros-gyrizw--to-parapono-tou-ksenitemenou",
+      "matched_db_title": "Το παράπονο του άρρωστου",
+      "confidence": 0.745,
+      "match_source": "subtitle",
+      "song_id": "5321"
+    },
+    {
+      "lyric_title": "Δεν τον θέλω μάνα μου",
+      "url_slug": "den-ton-thelw-mana-mou",
+      "matched_db_title": "Αν το μάθει η μάνα μου",
+      "confidence": 0.744,
+      "match_source": "main",
+      "song_id": "670"
+    },
+    {
+      "lyric_title": "Έλα στην κάμαρά μου",
+      "url_slug": "ela-sthn-kamara-mou",
+      "matched_db_title": "Έλα μες στην αγκαλιά μου",
+      "confidence": 0.744,
+      "match_source": "main",
+      "song_id": "9650"
+    },
+    {
+      "lyric_title": "Έρημος στην ξενιτιά(Είκοσι χρόνια μάνα μου)",
+      "url_slug": "erhmos-sthn-ksenitia--eikosi-xronia-mana-mou",
+      "matched_db_title": "Δυο χρόνια μακριά μου",
+      "confidence": 0.744,
+      "match_source": "subtitle",
+      "song_id": "9416"
+    },
+    {
+      "lyric_title": "Η γυναίκα μου ζηλεύει(Η γυναίκα μου γκρινιάζει)",
+      "url_slug": "h-gynaika-mou-zhleuei--h-gynaika-mou-gkriniazei",
+      "matched_db_title": "Η γυναίκα που πεθαίνει",
+      "confidence": 0.744,
+      "match_source": "main",
+      "song_id": "5438"
+    },
+    {
+      "lyric_title": "Για σένα μαυρομάτα μου(Ναζιάρα μου Μπομπίνα)",
+      "url_slug": "gia-sena-mauromata-mou--naziara-mou-mpompina",
+      "matched_db_title": "Μαυρομάτα μου",
+      "confidence": 0.743,
+      "match_source": "main",
+      "song_id": "2120"
+    },
+    {
+      "lyric_title": "Ο Μάρκος υπουργός(Όσοι γινούν πρωθυπουργοί)",
+      "url_slug": "o-markos-ypourgos--osoi-ginoun-prwthypourgoi",
+      "matched_db_title": "Ο Μάρκος Μπότσαρης",
+      "confidence": 0.743,
+      "match_source": "main",
+      "song_id": "5493"
+    },
+    {
+      "lyric_title": "Για σένα ξενυχτώ",
+      "url_slug": "gia-sena-ksenyxtw",
+      "matched_db_title": "Για σένα ζω",
+      "confidence": 0.741,
+      "match_source": "main",
+      "song_id": "10034"
+    },
+    {
+      "lyric_title": "Για σένα υποφέρω(Όταν βγαίνεις στο μπαλκόνι)",
+      "url_slug": "gia-sena-ypoferw--otan-bgaineis-sto-mpalkoni",
+      "matched_db_title": "Για σένα ζω",
+      "confidence": 0.741,
+      "match_source": "main",
+      "song_id": "10034"
+    },
+    {
+      "lyric_title": "Γλυκοχαράζει ο αυγερινός",
+      "url_slug": "glykoxarazei-o-augerinos",
+      "matched_db_title": "Γλυκοχαράζει η χαραυγή",
+      "confidence": 0.739,
+      "match_source": "main",
+      "song_id": "3123"
+    },
+    {
+      "lyric_title": "Ψεύτικος είναι ο ντουνιάς",
+      "url_slug": "pseutikos-einai-o-ntounias",
+      "matched_db_title": "Ψεύτισε πλέον ο ντουνιάς",
+      "confidence": 0.735,
+      "match_source": "main",
+      "song_id": "10586"
+    },
+    {
+      "lyric_title": "Αθηναίισσα(Πίνω και μαραζώνω)",
+      "url_slug": "a8hnaiissa--pinw-kai-marazwnw",
+      "matched_db_title": "Πίνω και μεθώ",
+      "confidence": 0.733,
+      "match_source": "subtitle",
+      "song_id": "5536"
+    },
+    {
+      "lyric_title": "Γιατί δακρύζεις",
+      "url_slug": "giati-dakryzeis",
+      "matched_db_title": "Γιατί να φύγεις",
+      "confidence": 0.733,
+      "match_source": "main",
+      "song_id": "4876"
+    },
+    {
+      "lyric_title": "Μάγκικο μελαχρινό(Νόστιμο τρελό μικρό μου)",
+      "url_slug": "magkiko-melaxrino--nostimo-trelo-mikro-mou",
+      "matched_db_title": "Νέο μελαχρινό",
+      "confidence": 0.733,
+      "match_source": "main",
+      "song_id": "4581"
+    },
+    {
+      "lyric_title": "Με μια μονάχα σου ματιά",
+      "url_slug": "me-mia-monaxa-sou-matia",
+      "matched_db_title": "Τα μαύρα σου μάτια",
+      "confidence": 0.732,
+      "match_source": "main",
+      "song_id": "5187"
+    },
+    {
+      "lyric_title": "Ο μαντρατζής(Ο ύμνος των Βοσκών)",
+      "url_slug": "o-mantratzhs--o-ymnos-twn-boskwn",
+      "matched_db_title": "Ο ύμνος των Παλαιολόγων",
+      "confidence": 0.732,
+      "match_source": "subtitle",
+      "song_id": "3190"
+    },
+    {
+      "lyric_title": "Χτες το βράδυ στον τεκέ μας",
+      "url_slug": "xtes-to-brady-ston-teke-mas",
+      "matched_db_title": "Χτες το βράδυ ονειρεύτηκα",
+      "confidence": 0.731,
+      "match_source": "main",
+      "song_id": "1459"
+    },
+    {
+      "lyric_title": "Έτσι σε θέλω",
+      "url_slug": "etsi-se-thelw",
+      "matched_db_title": "Εσένα θέλω",
+      "confidence": 0.727,
+      "match_source": "main",
+      "song_id": "9514"
+    },
+    {
+      "lyric_title": "Ο κουμπάρος ο ψαράς",
+      "url_slug": "o-koumparos-o-psaras",
+      "matched_db_title": "Ο μικρός ψαράς",
+      "confidence": 0.727,
+      "match_source": "main",
+      "song_id": "2116"
+    },
+    {
+      "lyric_title": "Με γελάσαν τα πουλιά",
+      "url_slug": "me-gelasan-ta-poulia",
+      "matched_db_title": "Κλώσσα τα πουλιά",
+      "confidence": 0.722,
+      "match_source": "main",
+      "song_id": "3039"
+    },
+    {
+      "lyric_title": "Ο γιατρός χτυπάει την πόρτα",
+      "url_slug": "o-giatros-xtypaei-thn-porta",
+      "matched_db_title": "Άνοιξε γιατρέ την πόρτα",
+      "confidence": 0.72,
+      "match_source": "main",
+      "song_id": "49"
+    },
+    {
+      "lyric_title": "Πες το ναι",
+      "url_slug": "pes-to-nai",
+      "matched_db_title": "Πες μου ένα ναι",
+      "confidence": 0.72,
+      "match_source": "main",
+      "song_id": "1737"
+    },
+    {
+      "lyric_title": "Τα δυο σου χέρια πήρανε(Βεργούλες)",
+      "url_slug": "ta-dyo-sou-xeria-phrane--bergoules",
+      "matched_db_title": "Στα δυο μου χέρια τ' άρματα",
+      "confidence": 0.72,
+      "match_source": "main",
+      "song_id": "4133"
+    },
+    {
+      "lyric_title": "Μα τι να κάνω σ’ αγαπώ",
+      "url_slug": "ma-ti-na-kanw-s-agapw",
+      "matched_db_title": "Γιατί να σ' αγαπώ",
+      "confidence": 0.718,
+      "match_source": "main",
+      "song_id": "2660"
+    },
+    {
+      "lyric_title": "Ο πολυτεχνίτης(Ο Μάρκος πολυτεχνίτης)",
+      "url_slug": "o-polytexniths--o-markos-polytexniths",
+      "matched_db_title": "Ο Μάρκος Μπότσαρης",
+      "confidence": 0.718,
+      "match_source": "subtitle",
+      "song_id": "5493"
+    },
+    {
+      "lyric_title": "Απόψε μες στο καπηλειό",
+      "url_slug": "apopse-mes-sto-kaphleio",
+      "matched_db_title": "Λάμπει μες στο γιαλό",
+      "confidence": 0.714,
+      "match_source": "main",
+      "song_id": "11150"
+    },
+    {
+      "lyric_title": "Νόστιμη μαυροματού",
+      "url_slug": "nostimh-mauromatou",
+      "matched_db_title": "Μαυροματού",
+      "confidence": 0.714,
+      "match_source": "main",
+      "song_id": "11119"
+    },
+    {
+      "lyric_title": "Πάμε στο Φάληρο",
+      "url_slug": "pame-sto-falhro",
+      "matched_db_title": "Πάμε στο νησί",
+      "confidence": 0.714,
+      "match_source": "main",
+      "song_id": "9661"
+    },
+    {
+      "lyric_title": "Στης νύχτας το σκοτάδι(Η επιπόλαιη)",
+      "url_slug": "sths-nyxtas-to-skotadi--h-epipolaih",
+      "matched_db_title": "Σερενάτα στο σκοτάδι",
+      "confidence": 0.714,
+      "match_source": "main",
+      "song_id": "1338"
+    },
+    {
+      "lyric_title": "Ζαχαρένιο χανουμάκι",
+      "url_slug": "zaxarenio-xanoumaki",
+      "matched_db_title": "Το χανουμάκι",
+      "confidence": 0.71,
+      "match_source": "main",
+      "song_id": "11167"
+    },
+    {
+      "lyric_title": "Θα σε περιμένω απόψε(Ρεμπέτες)",
+      "url_slug": "tha-se-perimenw-apopse--rempetes",
+      "matched_db_title": "Θα περιμένω",
+      "confidence": 0.71,
+      "match_source": "main",
+      "song_id": "2007"
+    },
+    {
+      "lyric_title": "Μόρτισσα χασικλού",
+      "url_slug": "mortissa-xasiklou",
+      "matched_db_title": "Μόρτισσα κακιά",
+      "confidence": 0.71,
+      "match_source": "main",
+      "song_id": "10405"
+    },
+    {
+      "lyric_title": "Πιά δε με γελάς",
+      "url_slug": "pia-de-me-gelas",
+      "matched_db_title": "Σαν δε με θέλεις",
+      "confidence": 0.71,
+      "match_source": "main",
+      "song_id": "4806"
+    },
+    {
+      "lyric_title": "Μια νύχτα κάτω στο Πασαλιμάνι",
+      "url_slug": "mia-nyxta-katw-sto-pasalimani",
+      "matched_db_title": "Μέσα στο Πασαλιμάνι",
+      "confidence": 0.708,
+      "match_source": "main",
+      "song_id": "4300"
+    },
+    {
+      "lyric_title": "Θα ’ρθω μια γλυκιά βραδιά",
+      "url_slug": "tha-rthw-mia-glykia-bradia",
+      "matched_db_title": "Άνοιξις - Τι γλυκιά βραδιά",
+      "confidence": 0.706,
+      "match_source": "main",
+      "song_id": "1725"
+    },
+    {
+      "lyric_title": "Μάγκισσα(Ντυμένη σαν αρχόντισσα)",
+      "url_slug": "magkissa--ntymenh-san-arxontissa",
+      "matched_db_title": "Η αρχόντισσα",
+      "confidence": 0.706,
+      "match_source": "subtitle",
+      "song_id": "2584"
+    },
+    {
+      "lyric_title": "Ο Νίκος ο Τρελάκιας",
+      "url_slug": "o-nikos-o-trelakias",
+      "matched_db_title": "Ο Νίκος Βραχνάς",
+      "confidence": 0.706,
+      "match_source": "main",
+      "song_id": "3911"
+    },
+    {
+      "lyric_title": "Ένας αλήτης πέθανε",
+      "url_slug": "enas-alhths-pethane",
+      "matched_db_title": "Ένας αετός καθότανε",
+      "confidence": 0.703,
+      "match_source": "main",
+      "song_id": "5140"
+    },
+    {
+      "lyric_title": "Μαλαματένια λόγια",
+      "url_slug": "malamatenia-logia",
+      "matched_db_title": "Κόρη μαλαματένια μου",
+      "confidence": 0.703,
+      "match_source": "main",
+      "song_id": "2983"
+    },
+    {
+      "lyric_title": "Ξαβεριώτισσα(Θέλω να σ’ ανταμώσω)",
+      "url_slug": "ksaberiwtissa--thelw-na-s-antamwsw",
+      "matched_db_title": "Θέλω να σ' αλησμονήσω",
+      "confidence": 0.7,
+      "match_source": "subtitle",
+      "song_id": "4290"
+    },
+    {
+      "lyric_title": "Τα σιγανά ποτάμια",
+      "url_slug": "ta-sigana-potamia",
+      "matched_db_title": "Τα τσιγγάνικά σου μάτια",
+      "confidence": 0.7,
+      "match_source": "main",
+      "song_id": "11307"
+    },
+    {
+      "lyric_title": "Της αγάπης ο ζητιάνος",
+      "url_slug": "ths-agaphs-o-zhtianos",
+      "matched_db_title": "Της αγάπης τα φιλιά",
+      "confidence": 0.7,
+      "match_source": "main",
+      "song_id": "5405"
+    }
+  ],
+  "likely_wrong": [
+    {
+      "lyric_title": "Η αγάπη μου στην Ικαριά",
+      "url_slug": "h-agaph-mou-sthn-ikaria",
+      "matched_db_title": "Η αγάπη μου η τελευταία",
+      "confidence": 0.696,
+      "match_source": "main",
+      "song_id": "1513"
+    },
+    {
+      "lyric_title": "Η καρδιά σου θα γίνει χρυσή",
+      "url_slug": "h-kardia-sou-tha-ginei-xrysh",
+      "matched_db_title": "Καρδιά που πεθαίνει",
+      "confidence": 0.696,
+      "match_source": "main",
+      "song_id": "2711"
+    },
+    {
+      "lyric_title": "Όταν πίνεις στην ταβέρνα",
+      "url_slug": "otan-pineis-sthn-taberna",
+      "matched_db_title": "Στου Λαΐνη την ταβέρνα",
+      "confidence": 0.696,
+      "match_source": "main",
+      "song_id": "9897"
+    },
+    {
+      "lyric_title": "Σε ξέχασα, δε σ’ αγαπώ",
+      "url_slug": "se-ksexasa-de-s-agapw",
+      "matched_db_title": "Δε σ' αγαπώ, δε σ' αγαπώ",
+      "confidence": 0.696,
+      "match_source": "main",
+      "song_id": "9727"
+    },
+    {
+      "lyric_title": "Στη Σαλαμίνα",
+      "url_slug": "sth-salamina",
+      "matched_db_title": "Στη θάλασσα",
+      "confidence": 0.696,
+      "match_source": "main",
+      "song_id": "1317"
+    },
+    {
+      "lyric_title": "Πάλι τραγούδι θα σου πω(Είμαι παιδάκι μάλαμα)",
+      "url_slug": "pali-tragoudi-tha-sou-pw--eimai-paidaki-malama",
+      "matched_db_title": "Τόσα τραγούδια σου 'χω πει",
+      "confidence": 0.694,
+      "match_source": "main",
+      "song_id": "1674"
+    },
+    {
+      "lyric_title": "Ποιά καρδιά δε θα ραΐσει",
+      "url_slug": "poia-kardia-de-tha-raisei",
+      "matched_db_title": "Πες το ναι και δεν θα χάσεις",
+      "confidence": 0.692,
+      "match_source": "main",
+      "song_id": "10659"
+    },
+    {
+      "lyric_title": "Σε φίνο ακρογιάλι",
+      "url_slug": "se-fino-akrogiali",
+      "matched_db_title": "Ακρογιάλι",
+      "confidence": 0.692,
+      "match_source": "main",
+      "song_id": "5464"
+    },
+    {
+      "lyric_title": "Τα όμορφα τα γαλανά σου μάτια",
+      "url_slug": "ta-omorfa-ta-galana-sou-matia",
+      "matched_db_title": "Τα τσιγγάνικά σου μάτια",
+      "confidence": 0.692,
+      "match_source": "main",
+      "song_id": "11307"
+    },
+    {
+      "lyric_title": "Η Κάρμεν στην Αθήνα",
+      "url_slug": "h-karmen-sthn-athhna",
+      "matched_db_title": "Στην Αθήνα",
+      "confidence": 0.69,
+      "match_source": "main",
+      "song_id": "4509"
+    },
+    {
+      "lyric_title": "Αγγελοκαμωμένη μου",
+      "url_slug": "aggelokamwmenh-mou",
+      "matched_db_title": "Άγγελα φως μου",
+      "confidence": 0.688,
+      "match_source": "main",
+      "song_id": "4705"
+    },
+    {
+      "lyric_title": "Απόψε κάνεις μπαμ",
+      "url_slug": "apopse-kaneis-mpam",
+      "matched_db_title": "Απόψε στις επτά",
+      "confidence": 0.688,
+      "match_source": "main",
+      "song_id": "2729"
+    },
+    {
+      "lyric_title": "Ανάθεμα τον αίτιο",
+      "url_slug": "anathema-ton-aitio",
+      "matched_db_title": "Ανάθεμά σε ξενιτιά",
+      "confidence": 0.686,
+      "match_source": "main",
+      "song_id": "1632"
+    },
+    {
+      "lyric_title": "Πάντα περιπλανώμενος",
+      "url_slug": "panta-periplanwmenos",
+      "matched_db_title": "Πάντα θλιμμένος",
+      "confidence": 0.686,
+      "match_source": "main",
+      "song_id": "11325"
+    },
+    {
+      "lyric_title": "Πίστεψέ με παιχνιδιάρα",
+      "url_slug": "pistepse-me-paixnidiara",
+      "matched_db_title": "Η παιχνιδιάρα",
+      "confidence": 0.686,
+      "match_source": "main",
+      "song_id": "10292"
+    },
+    {
+      "lyric_title": "Της γερακίνας γιος",
+      "url_slug": "ths-gerakinas-gios",
+      "matched_db_title": "Αλάνης μάνας γιος",
+      "confidence": 0.686,
+      "match_source": "main",
+      "song_id": "9749"
+    },
+    {
+      "lyric_title": "Θα ρωτήσω τη μαμά σου",
+      "url_slug": "tha-rwthsw-th-mama-sou",
+      "matched_db_title": "Σύρε στη μαμά σου",
+      "confidence": 0.684,
+      "match_source": "main",
+      "song_id": "10598"
+    },
+    {
+      "lyric_title": "Πάρε το μπογαλάκι σου",
+      "url_slug": "pare-to-mpogalaki-sou",
+      "matched_db_title": "Για το μεράκι σου",
+      "confidence": 0.684,
+      "match_source": "main",
+      "song_id": "4797"
+    },
+    {
+      "lyric_title": "Της αγάπης ο καημός",
+      "url_slug": "ths-agaphs-o-kahmos",
+      "matched_db_title": "Της αγάπης τα φιλιά",
+      "confidence": 0.684,
+      "match_source": "main",
+      "song_id": "5405"
+    },
+    {
+      "lyric_title": "Το πονεμένο στήθος μου",
+      "url_slug": "to-ponemeno-sththos-mou",
+      "matched_db_title": "Το πεπρωμένο μου",
+      "confidence": 0.684,
+      "match_source": "main",
+      "song_id": "1603"
+    },
+    {
+      "lyric_title": "Αγάπη είχα στην ξενιτιά",
+      "url_slug": "agaph-eixa-sthn-ksenitia",
+      "matched_db_title": "Ανάθεμά σε ξενιτιά",
+      "confidence": 0.683,
+      "match_source": "main",
+      "song_id": "1632"
+    },
+    {
+      "lyric_title": "Τα νιάτα τα μπερμπάντικα",
+      "url_slug": "ta-niata-ta-mpermpantika",
+      "matched_db_title": "Αχ! Αυτά τα μάτια",
+      "confidence": 0.683,
+      "match_source": "main",
+      "song_id": "5221"
+    },
+    {
+      "lyric_title": "Έκαψα την καλύβα μου",
+      "url_slug": "ekapsa-thn-kalyba-mou",
+      "matched_db_title": "Έλα μες στην αγκαλιά μου",
+      "confidence": 0.682,
+      "match_source": "main",
+      "song_id": "9650"
+    },
+    {
+      "lyric_title": "Μπαρμπαριά(Ένα τραγούδι τ’ Αλγέρι)",
+      "url_slug": "mparmparia--ena-tragoudi-t-algeri",
+      "matched_db_title": "Τραγούδι του αργαλειού",
+      "confidence": 0.682,
+      "match_source": "subtitle",
+      "song_id": "1592"
+    },
+    {
+      "lyric_title": "Άνοιξε γιατί δεν αντέχω",
+      "url_slug": "anoikse-giati-den-antexw",
+      "matched_db_title": "Και γιατί δεν μας το λες",
+      "confidence": 0.681,
+      "match_source": "main",
+      "song_id": "4236"
+    },
+    {
+      "lyric_title": "Θα χάσεις το κορίτσι σου(Βάλε μυαλό)",
+      "url_slug": "tha-xaseis-to-koritsi-sou--bale-myalo",
+      "matched_db_title": "Σαν σφίγγω το κορμί σου",
+      "confidence": 0.681,
+      "match_source": "main",
+      "song_id": "9834"
+    },
+    {
+      "lyric_title": "Πονεμένη καρδιά(Σαν είχες άλλον στην καρδιά)",
+      "url_slug": "ponemenh-kardia--san-eixes-allon-sthn-kardia",
+      "matched_db_title": "Κάτι έχω στην καρδιά",
+      "confidence": 0.681,
+      "match_source": "subtitle",
+      "song_id": "10244"
+    },
+    {
+      "lyric_title": "Τα ματόκλαδα σου λάμπουν",
+      "url_slug": "ta-matoklada-sou-lampoun",
+      "matched_db_title": "Τα ματάκια σου τα μαύρα",
+      "confidence": 0.681,
+      "match_source": "main",
+      "song_id": "3178"
+    },
+    {
+      "lyric_title": "Δε μου μιλάς δε με κοιτάς",
+      "url_slug": "de-mou-milas-de-me-koitas",
+      "matched_db_title": "Δεν θέλω πια να με κοιτάς",
+      "confidence": 0.68,
+      "match_source": "main",
+      "song_id": "10668"
+    },
+    {
+      "lyric_title": "Μαζί μου δεν ταιριάζεις",
+      "url_slug": "mazi-mou-den-tairiazeis",
+      "matched_db_title": "Έλα μαζί μου και δεν θα χάσεις",
+      "confidence": 0.679,
+      "match_source": "main",
+      "song_id": "1873"
+    },
+    {
+      "lyric_title": "Γέρασες και πια δεν σ’ αγαπώ",
+      "url_slug": "gerases-kai-pia-den-s-agapw",
+      "matched_db_title": "Τώρα και πάντα θα σ' αγαπώ",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1909"
+    },
+    {
+      "lyric_title": "Για το γινάτι σου μωρή",
+      "url_slug": "gia-to-ginati-sou-mwrh",
+      "matched_db_title": "Για το μεράκι σου",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "4797"
+    },
+    {
+      "lyric_title": "Γυφτοπούλα στο χαμάμ",
+      "url_slug": "gyftopoula-sto-xamam",
+      "matched_db_title": "Το χαρέμι στο χαμάμ",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "4634"
+    },
+    {
+      "lyric_title": "Εγώ είμαι για σένα",
+      "url_slug": "egw-eimai-gia-sena",
+      "matched_db_title": "Είμαι μια τσαχπίνα",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1882"
+    },
+    {
+      "lyric_title": "Επιασανε τον Μπάτη",
+      "url_slug": "epiasane-ton-mpath",
+      "matched_db_title": "Μέσα τον αγύρτη",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "2223"
+    },
+    {
+      "lyric_title": "Εχτές το βράδυ",
+      "url_slug": "extes-to-brady",
+      "matched_db_title": "Εχτές το δειλινό",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1327"
+    },
+    {
+      "lyric_title": "Η Μάγισσα Της Αραπιάς(Αραπιά)",
+      "url_slug": "h-magissa-ths-arapias--arapia",
+      "matched_db_title": "Μάγισσα ματσαράγκισσα",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10695"
+    },
+    {
+      "lyric_title": "Με τις μυρωδιές σου",
+      "url_slug": "me-tis-myrwdies-sou",
+      "matched_db_title": "Με του Μαγιού τις μυρωδιές",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "2358"
+    },
+    {
+      "lyric_title": "Μες στου Βάβουλα τη γούβα",
+      "url_slug": "mes-stou-baboula-th-gouba",
+      "matched_db_title": "Μες στου Συγγρού τη φυλακή",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "4258"
+    },
+    {
+      "lyric_title": "Μια βραδιά στην Αμφιάλη",
+      "url_slug": "mia-bradia-sthn-amfialh",
+      "matched_db_title": "Μια παπαδιά στον αργαλειό",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "4254"
+    },
+    {
+      "lyric_title": "Μόρτισα Χασικλού",
+      "url_slug": "mortisa-xasiklou",
+      "matched_db_title": "Αλανιάρα χασικλού",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10168"
+    },
+    {
+      "lyric_title": "Μόρτισσα εγεννήθηκα",
+      "url_slug": "mortissa-egennh8hka",
+      "matched_db_title": "Μόρτισσα κακιά",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10405"
+    },
+    {
+      "lyric_title": "Μπιρ Αλλάχ(Σαν βγαίνει ο Χότζας στο τζαμί)",
+      "url_slug": "mpir-allax--san-bgainei-o-xotzas-sto-tzami",
+      "matched_db_title": "Μπιρ μαβιλί",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "11375"
+    },
+    {
+      "lyric_title": "Ξεκινά μια Ψαροπούλα",
+      "url_slug": "ksekina-mia-psaropoula",
+      "matched_db_title": "Για μια μικρούλα",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1843"
+    },
+    {
+      "lyric_title": "Ο ψαράς μέσα στη χώρα",
+      "url_slug": "o-psaras-mesa-sth-xwra",
+      "matched_db_title": "Ο ψαράς με το γρι-γρι",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10469"
+    },
+    {
+      "lyric_title": "Όσο βαρούν τα σίδερα",
+      "url_slug": "oso-baroun-ta-sidera",
+      "matched_db_title": "Απ' τα πυκνά τα σίδερα",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1636"
+    },
+    {
+      "lyric_title": "Ραντεβού σαν περιμένω(Όταν δω τα δυο σου μάτια)",
+      "url_slug": "rantebou-san-perimenw--otan-dw-ta-dyo-sou-matia",
+      "matched_db_title": "Τα μαύρα σου μάτια",
+      "confidence": 0.667,
+      "match_source": "subtitle",
+      "song_id": "5187"
+    },
+    {
+      "lyric_title": "Ρίξε τα μαλλιά σου πίσω",
+      "url_slug": "rikse-ta-mallia-sou-pisw",
+      "matched_db_title": "Κλείσε τα μάτια σου",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "1559"
+    },
+    {
+      "lyric_title": "Στης αρετούσας την σπηλιά",
+      "url_slug": "sths-aretousas-thn-sphlia",
+      "matched_db_title": "Στης αγάπης τη φωλιά",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "5336"
+    },
+    {
+      "lyric_title": "Το κορίτσι σου κυρά μου",
+      "url_slug": "to-koritsi-sou-kyra-mou",
+      "matched_db_title": "Κοριτσάρα μου",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "2341"
+    },
+    {
+      "lyric_title": "Το κρασί είναι η ζωή μου",
+      "url_slug": "to-krasi-einai-h-zwh-mou",
+      "matched_db_title": "Εσύ 'σαι η ζωή μου",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10335"
+    },
+    {
+      "lyric_title": "Τώρα την καλοκαιριά",
+      "url_slug": "twra-thn-kalokairia",
+      "matched_db_title": "Το καλοκαίρι τώρα",
+      "confidence": 0.667,
+      "match_source": "main",
+      "song_id": "10562"
+    },
+    {
+      "lyric_title": "Καπετάν Αντρέα Ζέπο",
+      "url_slug": "kapetan-antrea-zepo",
+      "matched_db_title": "Ψαροπούλα\r\n(Ο Καπετάν Ανδρέας Ζέπος)",
+      "confidence": 0.655,
+      "match_source": "main",
+      "song_id": "2079"
+    },
+    {
+      "lyric_title": "Κέρνα μας, κέρνα μας(Σ’ αυτό το σπίτι που ’ρθαμε)",
+      "url_slug": "kerna-mas-kerna-mas--s-auto-to-spiti-pou-rthame",
+      "matched_db_title": "Από το σπίτι σου περνώ",
+      "confidence": 0.653,
+      "match_source": "subtitle",
+      "song_id": "2077"
+    },
+    {
+      "lyric_title": "Το μεγάλο ψάρι τρώει το μικρό",
+      "url_slug": "to-megalo-psari-trwei-to-mikro",
+      "matched_db_title": "Το αηδονάκι το μικρό",
+      "confidence": 0.653,
+      "match_source": "main",
+      "song_id": "3010"
+    },
+    {
+      "lyric_title": "Απόψε με την κούρσα μου",
+      "url_slug": "apopse-me-thn-koursa-mou",
+      "matched_db_title": "Πάρε όλη την καρδιά μου",
+      "confidence": 0.652,
+      "match_source": "main",
+      "song_id": "5227"
+    },
+    {
+      "lyric_title": "Θέλω να ξέρω κούκλα μου",
+      "url_slug": "thelw-na-kserw-koukla-mou",
+      "matched_db_title": "Πες το ναι κουκλάκι μου",
+      "confidence": 0.652,
+      "match_source": "main",
+      "song_id": "1840"
+    },
+    {
+      "lyric_title": "Τα δυο σου μάτια τα γλυκά",
+      "url_slug": "ta-dyo-sou-matia-ta-glyka",
+      "matched_db_title": "Δυο μαύρα μάτια αγαπώ",
+      "confidence": 0.652,
+      "match_source": "main",
+      "song_id": "5553"
+    },
+    {
+      "lyric_title": "Είσαι μελαχρινό και νόστιμο",
+      "url_slug": "eisai-melaxrino-kai-nostimo",
+      "matched_db_title": "Αχ μελαχρινό μου",
+      "confidence": 0.651,
+      "match_source": "main",
+      "song_id": "5090"
+    },
+    {
+      "lyric_title": "Να γιατί γυρνώ μες την Αθήνα",
+      "url_slug": "na-giati-gyrnw-mes-thn-athhna",
+      "matched_db_title": "Αγαπώ την Αθήνα",
+      "confidence": 0.651,
+      "match_source": "main",
+      "song_id": "1401"
+    },
+    {
+      "lyric_title": "Το παιδί του δρόμου",
+      "url_slug": "to-paidi-tou-dromou",
+      "matched_db_title": "Το σαλβάρι του Κιόρογλου",
+      "confidence": 0.651,
+      "match_source": "main",
+      "song_id": "9924"
+    },
+    {
+      "lyric_title": "Γιατί με ξύπνησες πρωί",
+      "url_slug": "giati-me-ksypnhses-prwi",
+      "matched_db_title": "Γιατί με τυραννείς",
+      "confidence": 0.65,
+      "match_source": "main",
+      "song_id": "5148"
+    },
+    {
+      "lyric_title": "Μέσα στη βαρυχειμωνιά(Ο καστανάς)",
+      "url_slug": "mesa-sth-baryxeimwnia--o-kastanas",
+      "matched_db_title": "Μέσα στο Πασαλιμάνι",
+      "confidence": 0.65,
+      "match_source": "main",
+      "song_id": "4300"
+    },
+    {
+      "lyric_title": "Στα σίδερα με βάλανε",
+      "url_slug": "sta-sidera-me-balane",
+      "matched_db_title": "Στη φυλακή με βάλανε",
+      "confidence": 0.65,
+      "match_source": "main",
+      "song_id": "4089"
+    },
+    {
+      "lyric_title": "Τον άντρα σου και μένα",
+      "url_slug": "ton-antra-sou-kai-mena",
+      "matched_db_title": "Τα μαύρα σου μάτια",
+      "confidence": 0.65,
+      "match_source": "main",
+      "song_id": "5187"
+    },
+    {
+      "lyric_title": "Απόψε στις ακρογιαλιές",
+      "url_slug": "apopse-stis-akrogialies",
+      "matched_db_title": "Απόψε στις επτά",
+      "confidence": 0.649,
+      "match_source": "main",
+      "song_id": "2729"
+    },
+    {
+      "lyric_title": "Καλόγερος(Βαρέθηκα τις γκόμενες)",
+      "url_slug": "kalogeros--bare8hka-tis-gkomenes",
+      "matched_db_title": "Βίρα τις άγκυρες",
+      "confidence": 0.649,
+      "match_source": "subtitle",
+      "song_id": "1759"
+    },
+    {
+      "lyric_title": "Πάντα με γλυκό χασίσι",
+      "url_slug": "panta-me-glyko-xasisi",
+      "matched_db_title": "Πιες γλυκό κρασί",
+      "confidence": 0.649,
+      "match_source": "main",
+      "song_id": "1269"
+    },
+    {
+      "lyric_title": "Πέντε χρόνια δικασμένος(Η φωνή του αργιλέ)",
+      "url_slug": "pente-xronia-dikasmenos--h-fwnh-tou-argile",
+      "matched_db_title": "Η φωνή της αγάπης",
+      "confidence": 0.647,
+      "match_source": "subtitle",
+      "song_id": "1339"
+    },
+    {
+      "lyric_title": "Ένα κι ένα κάνουν δυο",
+      "url_slug": "ena-ki-ena-kanoun-dyo",
+      "matched_db_title": "Ένα κι ένα",
+      "confidence": 0.645,
+      "match_source": "main",
+      "song_id": "1768"
+    },
+    {
+      "lyric_title": "Τεκετζής(Είμαι φίνος μάγκας)",
+      "url_slug": "teketzhs--eimai-finos-magkas",
+      "matched_db_title": "Ο νέος μάγκας",
+      "confidence": 0.645,
+      "match_source": "subtitle",
+      "song_id": "10677"
+    },
+    {
+      "lyric_title": "Μη μου λες γιατί ξεχνάω",
+      "url_slug": "mh-mou-les-giati-ksexnaw",
+      "matched_db_title": "Σ' αγαπώ, μη μου λες να σε ξεχάσω",
+      "confidence": 0.643,
+      "match_source": "main",
+      "song_id": "2020"
+    },
+    {
+      "lyric_title": "Πού θα τα βρεις",
+      "url_slug": "pou-tha-ta-breis",
+      "matched_db_title": "Πού θα με πας",
+      "confidence": 0.643,
+      "match_source": "main",
+      "song_id": "1764"
+    },
+    {
+      "lyric_title": "Προσφυγάκι(Είμαι ένα Δερβισάκι)",
+      "url_slug": "prosfygaki--eimai-ena-derbisaki",
+      "matched_db_title": "Δερβισάκι",
+      "confidence": 0.643,
+      "match_source": "subtitle",
+      "song_id": "11078"
+    },
+    {
+      "lyric_title": "Του πόνου το ποτήρι",
+      "url_slug": "tou-ponou-to-pothri",
+      "matched_db_title": "Το ποτήρι",
+      "confidence": 0.643,
+      "match_source": "main",
+      "song_id": "9595"
+    },
+    {
+      "lyric_title": "Βάρκα γιαλό",
+      "url_slug": "barka-gialo",
+      "matched_db_title": "Κάτω στο γιαλό",
+      "confidence": 0.64,
+      "match_source": "main",
+      "song_id": "5419"
+    },
+    {
+      "lyric_title": "Έλα να πάμε εκεί που λες",
+      "url_slug": "ela-na-pame-ekei-pou-les",
+      "matched_db_title": "Έλα να πάμε στη Χονολουλού",
+      "confidence": 0.64,
+      "match_source": "main",
+      "song_id": "2883"
+    },
+    {
+      "lyric_title": "Μες στου Αιγαίου τα νησιά",
+      "url_slug": "mes-stou-aigaiou-ta-nhsia",
+      "matched_db_title": "Μέσα στου κρασιού τη ζάλη",
+      "confidence": 0.64,
+      "match_source": "main",
+      "song_id": "1407"
+    },
+    {
+      "lyric_title": "Όταν θα κάνω πέρασμα(Η ξανθιά)",
+      "url_slug": "otan-tha-kanw-perasma--h-ksanthia",
+      "matched_db_title": "Η ξανθιά βαρωνέζα",
+      "confidence": 0.64,
+      "match_source": "subtitle",
+      "song_id": "10477"
+    },
+    {
+      "lyric_title": "Δε θέλω να ξενιτευτείς",
+      "url_slug": "de-thelw-na-kseniteuteis",
+      "matched_db_title": "Δεν θέλω πια να με κοιτάς",
+      "confidence": 0.638,
+      "match_source": "main",
+      "song_id": "10668"
+    },
+    {
+      "lyric_title": "Θα σε διώξω",
+      "url_slug": "tha-se-diwksw",
+      "matched_db_title": "Θα σε κλέψω",
+      "confidence": 0.636,
+      "match_source": "main",
+      "song_id": "1727"
+    },
+    {
+      "lyric_title": "Ματσαράγκα(Στου Αλευρά τη μάντρα)",
+      "url_slug": "matsaragka--stou-aleura-th-mantra",
+      "matched_db_title": "Στου Μανώλη την ταβέρνα",
+      "confidence": 0.636,
+      "match_source": "subtitle",
+      "song_id": "9645"
+    },
+    {
+      "lyric_title": "Στα πεύκα και στα έλατα(Τα νιάτα δεν τα χόρτασα)",
+      "url_slug": "sta-peuka-kai-sta-elata--ta-niata-den-ta-xortasa",
+      "matched_db_title": "Το κορίτσι με τα ράσα",
+      "confidence": 0.636,
+      "match_source": "subtitle",
+      "song_id": "5529"
+    },
+    {
+      "lyric_title": "Τα κεριά τα σπαρματσέτα",
+      "url_slug": "ta-keria-ta-sparmatseta",
+      "matched_db_title": "Τσάκα τσούκα σπάσ' τα",
+      "confidence": 0.636,
+      "match_source": "main",
+      "song_id": "10667"
+    },
+    {
+      "lyric_title": "Πάψε μανούλα μου να κλαις",
+      "url_slug": "papse-manoula-mou-na-klais",
+      "matched_db_title": "Πώς να μην κλαις",
+      "confidence": 0.634,
+      "match_source": "main",
+      "song_id": "1664"
+    },
+    {
+      "lyric_title": "Πώς θα περάσει η βραδιά(Φοβάμαι μη σε χάσω)",
+      "url_slug": "pws-tha-perasei-h-bradia--fobamai-mh-se-xasw",
+      "matched_db_title": "Θα περάσει κι αυτό",
+      "confidence": 0.634,
+      "match_source": "main",
+      "song_id": "5543"
+    },
+    {
+      "lyric_title": "Χωρίσαμε ένα δειλινό",
+      "url_slug": "xwrisame-ena-deilino",
+      "matched_db_title": "Συννεφιασμένο δειλινό",
+      "confidence": 0.634,
+      "match_source": "main",
+      "song_id": "1595"
+    },
+    {
+      "lyric_title": "Δεν ξανακάνω φυλακή",
+      "url_slug": "den-ksanakanw-fylakh",
+      "matched_db_title": "Δεν ξαναπαντρεύομαι",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "4900"
+    },
+    {
+      "lyric_title": "Εγώ είμαι η μπολσεβίκα",
+      "url_slug": "egw-eimai-h-mpolsebika",
+      "matched_db_title": "Εγώ 'μαι η Βλάχα",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "3020"
+    },
+    {
+      "lyric_title": "Η ξενιτιά είναι φωτιά",
+      "url_slug": "h-ksenitia-einai-fwtia",
+      "matched_db_title": "Η μάνα είναι μάνα",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "3226"
+    },
+    {
+      "lyric_title": "Ο μάγκας του Βοτανικού(Ένας μάγκας στο Βοτανικό)",
+      "url_slug": "o-magkas-tou-botanikou--enas-magkas-sto-botaniko",
+      "matched_db_title": "Μάγκας του Ψυρρή",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "4216"
+    },
+    {
+      "lyric_title": "Τα καραβοτσακίσματα",
+      "url_slug": "ta-karabotsakismata",
+      "matched_db_title": "Τα καημένα τα νιάτα",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "10521"
+    },
+    {
+      "lyric_title": "Το κουρασμένο βήμα σου",
+      "url_slug": "to-kourasmeno-bhma-sou",
+      "matched_db_title": "Το πεπρωμένο μου",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "1603"
+    },
+    {
+      "lyric_title": "Το τραμ το τελευταίο",
+      "url_slug": "to-tram-to-teleutaio",
+      "matched_db_title": "Το τελευταίο ταγκό",
+      "confidence": 0.632,
+      "match_source": "main",
+      "song_id": "1947"
+    },
+    {
+      "lyric_title": "Η μόνη μου παρηγοριά(Τα πεύκα της Πεντέλης)",
+      "url_slug": "h-monh-mou-parhgoria--ta-peuka-ths-pentelhs",
+      "matched_db_title": "Γλυκό μου αγόρι",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "10440"
+    },
+    {
+      "lyric_title": "Μάρκος ο Συριανός",
+      "url_slug": "markos-o-syrianos",
+      "matched_db_title": "Ο Μάρκος Μπότσαρης",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "5493"
+    },
+    {
+      "lyric_title": "Μαύρα μάτια μαύρα φρύδια",
+      "url_slug": "mayra-matia-mayra-frydia",
+      "matched_db_title": "Μαύρα μάτια",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "4785"
+    },
+    {
+      "lyric_title": "Οι αδικοπνιγμένοι",
+      "url_slug": "oi-adikopnigmenoi",
+      "matched_db_title": "Οι γεροπαντρεμένοι",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "2445"
+    },
+    {
+      "lyric_title": "Πάνε για το πράσσο(Το πράσο)",
+      "url_slug": "pane-gia-to-prasso--to-praso",
+      "matched_db_title": "Για το μεράκι σου",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "4797"
+    },
+    {
+      "lyric_title": "Σπανιόλα όμορφη",
+      "url_slug": "spaniola-omorfh",
+      "matched_db_title": "Πολίτισσά μου όμορφη",
+      "confidence": 0.629,
+      "match_source": "main",
+      "song_id": "1782"
+    },
+    {
+      "lyric_title": "Αρρώστησα στα ξένα μακρυά σου",
+      "url_slug": "arrwsthsa-sta-ksena-makrya-sou",
+      "matched_db_title": "Άσ' τα τα μαλλάκια σου",
+      "confidence": 0.627,
+      "match_source": "main",
+      "song_id": "2315"
+    },
+    {
+      "lyric_title": "Θέλω να πίνεις να μεθάς(Σε γλέντια σε τρελούς χορούς)",
+      "url_slug": "thelw-na-pineis-na-methas--se-glentia-se-trelous-xorous",
+      "matched_db_title": "Δεν θέλω πια να με κοιτάς",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "10668"
+    },
+    {
+      "lyric_title": "Κουράστηκα στην ξενιτιά",
+      "url_slug": "kourasthka-sthn-ksenitia",
+      "matched_db_title": "Τώρα που ζω στην ξενιτειά",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "2629"
+    },
+    {
+      "lyric_title": "Μην είσαι ψεύτρα δίγνωμη",
+      "url_slug": "mhn-eisai-pseutra-dignwmh",
+      "matched_db_title": "Μην ορκίζεσαι βρε ψεύτρα",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "4888"
+    },
+    {
+      "lyric_title": "Σκύλα μ’ έκανες και λιώνω",
+      "url_slug": "skyla-m-ekanes-kai-liwnw",
+      "matched_db_title": "Συ μ' έκανες να περπατώ",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "10577"
+    },
+    {
+      "lyric_title": "Τα παντρεμενάδικα",
+      "url_slug": "ta-pantremenadika",
+      "matched_db_title": "Τα μπαρμπεράκια",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "10417"
+    },
+    {
+      "lyric_title": "Το Mαργούδι κι ο Αλεξανδρής(Το Μαργούδι)",
+      "url_slug": "to-margoudi-ki-o-aleksandrhs--to-margoudi",
+      "matched_db_title": "Το τραγούδι του αλήτη",
+      "confidence": 0.625,
+      "match_source": "main",
+      "song_id": "1991"
+    },
+    {
+      "lyric_title": "Απ’ τη μάνα μου διωγμένος",
+      "url_slug": "ap-th-mana-mou-diwgmenos",
+      "matched_db_title": "Η μάνα μου με δέρνει",
+      "confidence": 0.622,
+      "match_source": "main",
+      "song_id": "2996"
+    },
+    {
+      "lyric_title": "Στην Πλάκα που επήγαινα",
+      "url_slug": "sthn-plaka-pou-ephgaina",
+      "matched_db_title": "Η γυναίκα που πεθαίνει",
+      "confidence": 0.622,
+      "match_source": "main",
+      "song_id": "5438"
+    },
+    {
+      "lyric_title": "Βαδίζω με παράπονο(Πήρα το δρόμο το στενό)",
+      "url_slug": "badizw-me-parapono--phra-to-dromo-to-steno",
+      "matched_db_title": "Το παράπονο",
+      "confidence": 0.621,
+      "match_source": "main",
+      "song_id": "1292"
+    },
+    {
+      "lyric_title": "Κάνε λιγάκι υπομονή(Μην απελπίζεσαι)",
+      "url_slug": "kane-ligaki-ypomonh--mhn-apelpizesai",
+      "matched_db_title": "Μην περιμένεις",
+      "confidence": 0.621,
+      "match_source": "subtitle",
+      "song_id": "1487"
+    },
+    {
+      "lyric_title": "Περσεφόνη",
+      "url_slug": "persefonh",
+      "matched_db_title": "Περσεφόνη μου γλυκιά",
+      "confidence": 0.621,
+      "match_source": "main",
+      "song_id": "9705"
+    },
+    {
+      "lyric_title": "Να μη λες το μυστικό σου",
+      "url_slug": "na-mh-les-to-mystiko-sou",
+      "matched_db_title": "Διά το βύσσινό σου",
+      "confidence": 0.619,
+      "match_source": "main",
+      "song_id": "10434"
+    },
+    {
+      "lyric_title": "Οι φυλακές του Ωρωπού",
+      "url_slug": "oi-fylakes-tou-wrwpou",
+      "matched_db_title": "Οι κλέφτες του βάλτου",
+      "confidence": 0.619,
+      "match_source": "main",
+      "song_id": "2988"
+    },
+    {
+      "lyric_title": "Σιγά σιγά πεθαίνω(Με μάγεψε μια μάγισσα)",
+      "url_slug": "siga-siga-pethainw--me-magepse-mia-magissa",
+      "matched_db_title": "Με γέλασε μια χαραυγή",
+      "confidence": 0.619,
+      "match_source": "subtitle",
+      "song_id": "9975"
+    },
+    {
+      "lyric_title": "Χαράματα η ώρα τρεις(Θα ’ρθω να σε ξυπνήσω)",
+      "url_slug": "xaramata-h-wra-treis--tha-rthw-na-se-ksypnhsw",
+      "matched_db_title": "Αγάπη μου η ώρα φτάνει",
+      "confidence": 0.619,
+      "match_source": "main",
+      "song_id": "2013"
+    },
+    {
+      "lyric_title": "Ένα τρεχαντηράκι",
+      "url_slug": "ena-trexanthraki",
+      "matched_db_title": "Ένα καράβι",
+      "confidence": 0.615,
+      "match_source": "main",
+      "song_id": "4458"
+    },
+    {
+      "lyric_title": "Ούζο ούζο",
+      "url_slug": "ouzo-ouzo",
+      "matched_db_title": "Ούζο",
+      "confidence": 0.615,
+      "match_source": "main",
+      "song_id": "10626"
+    },
+    {
+      "lyric_title": "Τι σήμερα, τι αύριο, τι τώρα",
+      "url_slug": "ti-shmera-ti-ayrio-ti-twra",
+      "matched_db_title": "Τι τριάντα, τι σαράντα, τι πενήντα",
+      "confidence": 0.613,
+      "match_source": "main",
+      "song_id": "100"
+    },
+    {
+      "lyric_title": "Όλοι οι ρεμπέτες του ντουνιά",
+      "url_slug": "oloi-oi-rempetes-tou-ntounia",
+      "matched_db_title": "Οι κλέφτες του βάλτου",
+      "confidence": 0.612,
+      "match_source": "main",
+      "song_id": "2988"
+    },
+    {
+      "lyric_title": "Όταν με βλέπεις και περνώ",
+      "url_slug": "otan-me-blepeis-kai-pernw",
+      "matched_db_title": "Όταν σε βλέπω κι έρχεσαι",
+      "confidence": 0.612,
+      "match_source": "main",
+      "song_id": "4836"
+    },
+    {
+      "lyric_title": "Της μαστούρας ο σκοπός(Όταν συμβεί στα πέριξ)",
+      "url_slug": "ths-mastouras-o-skopos--otan-symbei-sta-periks",
+      "matched_db_title": "Όταν λάμπει τ' ωραίο φεγγάρι",
+      "confidence": 0.612,
+      "match_source": "subtitle",
+      "song_id": "10202"
+    },
+    {
+      "lyric_title": "Τι έχεις και δε μου μιλάς",
+      "url_slug": "ti-exeis-kai-de-mou-milas",
+      "matched_db_title": "Τι έχεις καημένε πλάτανε",
+      "confidence": 0.612,
+      "match_source": "main",
+      "song_id": "10276"
+    },
+    {
+      "lyric_title": "Αλανιάρα απ’ τον Περαία(Κάθε βράδυ θα σε περιμένω)",
+      "url_slug": "alaniara-ap-ton-peraia--kathe-brady-tha-se-perimenw",
+      "matched_db_title": "Θα περιμένω",
+      "confidence": 0.611,
+      "match_source": "subtitle",
+      "song_id": "2007"
+    },
+    {
+      "lyric_title": "Άνθρωπε(Πάλι κι απόψε σκεφτικός)",
+      "url_slug": "anthrwpe--pali-ki-apopse-skeftikos",
+      "matched_db_title": "Ήπια κι απόψε",
+      "confidence": 0.611,
+      "match_source": "subtitle",
+      "song_id": "1845"
+    },
+    {
+      "lyric_title": "Έχω βαθιά τον πόνο",
+      "url_slug": "exw-bathia-ton-pono",
+      "matched_db_title": "Κερνώ τον πόνο μου",
+      "confidence": 0.611,
+      "match_source": "main",
+      "song_id": "10610"
+    },
+    {
+      "lyric_title": "Μη μου ξαναφύγεις πια",
+      "url_slug": "mh-mou-ksanafygeis-pia",
+      "matched_db_title": "Μη μου θυμίζεις",
+      "confidence": 0.611,
+      "match_source": "main",
+      "song_id": "11255"
+    },
+    {
+      "lyric_title": "Τα μπλε παράθυρα(Τα μπλε τα παραθύρια)",
+      "url_slug": "ta-mple-parathyra--ta-mple-ta-parathyria",
+      "matched_db_title": "Τα μπαγλαμαδάκια",
+      "confidence": 0.611,
+      "match_source": "subtitle",
+      "song_id": "11092"
+    },
+    {
+      "lyric_title": "Γλέντα μην αργοπορείς",
+      "url_slug": "glenta-mhn-argoporeis",
+      "matched_db_title": "Στ' αλήθεια μην αγαπήσεις",
+      "confidence": 0.609,
+      "match_source": "main",
+      "song_id": "791"
+    },
+    {
+      "lyric_title": "Ρίξε τσιγγάνα τα χαρτιά",
+      "url_slug": "rikse-tsiggana-ta-xartia",
+      "matched_db_title": "Τα τσιγγάνικά σου μάτια",
+      "confidence": 0.609,
+      "match_source": "main",
+      "song_id": "11307"
+    },
+    {
+      "lyric_title": "Σάββατο βραδύ",
+      "url_slug": "sabbato-brady",
+      "matched_db_title": "Κάθε βράδυ",
+      "confidence": 0.609,
+      "match_source": "main",
+      "song_id": "1676"
+    },
+    {
+      "lyric_title": "Το παιχνίδι του Αμερικάνου",
+      "url_slug": "to-paixnidi-tou-amerikanou",
+      "matched_db_title": "Το αηδονάκι το μικρό",
+      "confidence": 0.609,
+      "match_source": "main",
+      "song_id": "3010"
+    },
+    {
+      "lyric_title": "Απόψε πια δε βάσταξα",
+      "url_slug": "apopse-pia-de-bastaksa",
+      "matched_db_title": "Απόψε φίλα με",
+      "confidence": 0.606,
+      "match_source": "main",
+      "song_id": "2728"
+    },
+    {
+      "lyric_title": "Ο Αντώνης ο βαρκάρης",
+      "url_slug": "o-antwnhs-o-barkarhs",
+      "matched_db_title": "Γέρο βαρκάρης",
+      "confidence": 0.606,
+      "match_source": "main",
+      "song_id": "9578"
+    },
+    {
+      "lyric_title": "Φτωχό κομπολογάκι μου",
+      "url_slug": "ftwxo-kompologaki-mou",
+      "matched_db_title": "Κουκλάκι μου",
+      "confidence": 0.606,
+      "match_source": "main",
+      "song_id": "10636"
+    },
+    {
+      "lyric_title": "Αν φύγεις για την ξενιτιά",
+      "url_slug": "an-fygeis-gia-thn-ksenitia",
+      "matched_db_title": "Ανάθεμά σε ξενιτιά",
+      "confidence": 0.605,
+      "match_source": "main",
+      "song_id": "1632"
+    },
+    {
+      "lyric_title": "Μια και η ζωή θα σβήσει(Θα τη γλεντήσω τη ζωή)",
+      "url_slug": "mia-kai-h-zwh-tha-sbhsei--tha-th-glenthsw-th-zwh",
+      "matched_db_title": "Μακριά κι αν θα 'σαι",
+      "confidence": 0.605,
+      "match_source": "main",
+      "song_id": "5247"
+    },
+    {
+      "lyric_title": "Μες στην πολλή σκοτούρα μου",
+      "url_slug": "mes-sthn-pollh-skotoura-mou",
+      "matched_db_title": "Μ' άδειασαν τη σακούλα μου",
+      "confidence": 0.604,
+      "match_source": "main",
+      "song_id": "9574"
+    },
+    {
+      "lyric_title": "Έμαθα πως είσαι μάγκας",
+      "url_slug": "ematha-pws-eisai-magkas",
+      "matched_db_title": "Αρμένης και μάγκας",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "9598"
+    },
+    {
+      "lyric_title": "Θα σε κάνω μενεξέ",
+      "url_slug": "tha-se-kanw-menekse",
+      "matched_db_title": "Θα σε κάνω σύντροφό μου",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "1442"
+    },
+    {
+      "lyric_title": "Μονάχος μες στη μοναξιά",
+      "url_slug": "monaxos-mes-sth-monaksia",
+      "matched_db_title": "Μονάχος κι έρημος",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "1254"
+    },
+    {
+      "lyric_title": "Μπρος στα κλειστά παράθυρα(Ο δρόμος)",
+      "url_slug": "mpros-sta-kleista-parathyra--o-dromos",
+      "matched_db_title": "Εμπρός εις στα τραγούδια",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "4475"
+    },
+    {
+      "lyric_title": "Μ’ έκαψες, τσαχπίνα μου",
+      "url_slug": "m-ekapses-tsaxpina-mou",
+      "matched_db_title": "Αμάν Κατερίνα μου",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "10507"
+    },
+    {
+      "lyric_title": "Ο Μάρκος κάνει σαρμάκο",
+      "url_slug": "o-markos-kanei-sarmako",
+      "matched_db_title": "Ο Μάρκος Μπότσαρης",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "5493"
+    },
+    {
+      "lyric_title": "Πες μου τι λόγια σου ’χουν πει(Γιατί ’σαι πικραμένη)",
+      "url_slug": "pes-mou-ti-logia-sou-xoun-pei--giati-sai-pikramenh",
+      "matched_db_title": "Γιατί πίνω",
+      "confidence": 0.6,
+      "match_source": "subtitle",
+      "song_id": "10346"
+    },
+    {
+      "lyric_title": "Τα σμυρνέικα τραγούδια",
+      "url_slug": "ta-smyrneika-tragoudia",
+      "matched_db_title": "Τα μαύρα μάτια σου",
+      "confidence": 0.6,
+      "match_source": "main",
+      "song_id": "9983"
+    },
+    {
+      "lyric_title": "Τον Χάρο τον αντάμωσαν(Κουβέντα με το Χάρο)",
+      "url_slug": "ton-xaro-ton-antamwsan--koubenta-me-to-xaro",
+      "matched_db_title": "Του βλάμη το παράπονο",
+      "confidence": 0.6,
+      "match_source": "subtitle",
+      "song_id": "4202"
+    },
+    {
+      "lyric_title": "Εμένα λόγια μη μου λες",
+      "url_slug": "emena-logia-mh-mou-les",
+      "matched_db_title": "Δεν θέλω πια να μου μιλάς",
+      "confidence": 0.596,
+      "match_source": "main",
+      "song_id": "4976"
+    },
+    {
+      "lyric_title": "Όσοι έχουνε πολλά λεφτά",
+      "url_slug": "osoi-exoune-polla-lefta",
+      "matched_db_title": "Μη σε πλανέψουν τα λεφτά",
+      "confidence": 0.596,
+      "match_source": "main",
+      "song_id": "10567"
+    },
+    {
+      "lyric_title": "Σαν εγύριζα απ’ την Πύλο",
+      "url_slug": "san-egyriza-ap-thn-pylo",
+      "matched_db_title": "Σαν περνούσ' από τη Χίο",
+      "confidence": 0.596,
+      "match_source": "main",
+      "song_id": "5548"
+    },
+    {
+      "lyric_title": "Το βαπόρι απ’ τη Περσία",
+      "url_slug": "to-bapori-ap-th-persia",
+      "matched_db_title": "Το παραμύθι της νεράιδας",
+      "confidence": 0.596,
+      "match_source": "main",
+      "song_id": "5506"
+    },
+    {
+      "lyric_title": "Αργιλέ μου γιατί σβήνεις",
+      "url_slug": "argile-mou-giati-sbhneis",
+      "matched_db_title": "Πες μου γιατί",
+      "confidence": 0.595,
+      "match_source": "main",
+      "song_id": "10199"
+    },
+    {
+      "lyric_title": "Εάν δεν ήσουνα κακιά",
+      "url_slug": "ean-den-hsouna-kakia",
+      "matched_db_title": "Δεν άκουσα κανένα",
+      "confidence": 0.595,
+      "match_source": "main",
+      "song_id": "10601"
+    },
+    {
+      "lyric_title": "Να μη σε δω φιγουρατζή",
+      "url_slug": "na-mh-se-dw-figouratzh",
+      "matched_db_title": "Αχ μη σε φίλησα",
+      "confidence": 0.595,
+      "match_source": "main",
+      "song_id": "5105"
+    },
+    {
+      "lyric_title": "Ξελογιασμένη(Λιγάκι δεν εντράπηκες)",
+      "url_slug": "kselogiasmenh--ligaki-den-entraphkes",
+      "matched_db_title": "Γιατί δεν θέλεις",
+      "confidence": 0.595,
+      "match_source": "subtitle",
+      "song_id": "2181"
+    },
+    {
+      "lyric_title": "Σ’ έχω κάνει πέρα",
+      "url_slug": "s-exw-kanei-pera",
+      "matched_db_title": "Η Δέσπω κάνει πόλεμο",
+      "confidence": 0.595,
+      "match_source": "main",
+      "song_id": "4329"
+    },
+    {
+      "lyric_title": "Δεν παύει πια το στόμα σου",
+      "url_slug": "den-payei-pia-to-stoma-sou",
+      "matched_db_title": "Δεν θα φύγεις απ' τη ζωή μου",
+      "confidence": 0.593,
+      "match_source": "main",
+      "song_id": "1280"
+    },
+    {
+      "lyric_title": "Μπουζούκι μου διπλόχορδο",
+      "url_slug": "mpouzouki-mou-diploxordo",
+      "matched_db_title": "Το μπουζούκι του Γιοβάν Τσαούς",
+      "confidence": 0.593,
+      "match_source": "main",
+      "song_id": "2459"
+    },
+    {
+      "lyric_title": "Οι δυο σερέτες",
+      "url_slug": "oi-dyo-seretes",
+      "matched_db_title": "Δυο αδερφάδες",
+      "confidence": 0.593,
+      "match_source": "main",
+      "song_id": "1241"
+    },
+    {
+      "lyric_title": "Βάρκα μου μπογιατισμένη",
+      "url_slug": "barka-mou-mpogiatismenh",
+      "matched_db_title": "Κατινάκι μου για σένα",
+      "confidence": 0.591,
+      "match_source": "main",
+      "song_id": "9969"
+    },
+    {
+      "lyric_title": "Βρε ζωή φαρμάκια στάζεις(Φέρτε μια κούπα με κρασί)",
+      "url_slug": "bre-zwh-farmakia-stazeis--ferte-mia-koupa-me-krasi",
+      "matched_db_title": "Εγώ θα κόψω το κρασί",
+      "confidence": 0.591,
+      "match_source": "subtitle",
+      "song_id": "2709"
+    },
+    {
+      "lyric_title": "Θέλω μαστούρης να γινώ",
+      "url_slug": "thelw-mastourhs-na-ginw",
+      "matched_db_title": "Θέλω κάπου να σε κρύψω",
+      "confidence": 0.591,
+      "match_source": "main",
+      "song_id": "1767"
+    },
+    {
+      "lyric_title": "Κάποιο βράδυ με φεγγάρι",
+      "url_slug": "kapoio-brady-me-feggari",
+      "matched_db_title": "Το καινούργιο φεγγάρι",
+      "confidence": 0.591,
+      "match_source": "main",
+      "song_id": "5561"
+    },
+    {
+      "lyric_title": "Πέντε μάγκες στον Περαία",
+      "url_slug": "pente-magkes-ston-peraia",
+      "matched_db_title": "Πέντε κάμαρες γαζέτα",
+      "confidence": 0.591,
+      "match_source": "main",
+      "song_id": "5285"
+    },
+    {
+      "lyric_title": "Τότε που τα ’χα τα λεφτά",
+      "url_slug": "tote-pou-ta-xa-ta-lefta",
+      "matched_db_title": "Απόψε που 'χω τάλιρα",
+      "confidence": 0.591,
+      "match_source": "main",
+      "song_id": "1409"
+    },
+    {
+      "lyric_title": "Γιάλα",
+      "url_slug": "giala",
+      "matched_db_title": "Μπίντα γιάλα",
+      "confidence": 0.588,
+      "match_source": "main",
+      "song_id": "10650"
+    },
+    {
+      "lyric_title": "Εγώ δεν έχω βγάλει το σχολείο",
+      "url_slug": "egw-den-exw-bgalei-to-sxoleio",
+      "matched_db_title": "Εγώ το πίνω και το λέω",
+      "confidence": 0.588,
+      "match_source": "main",
+      "song_id": "9676"
+    },
+    {
+      "lyric_title": "Κάφτε γιατροί τις συνταγές",
+      "url_slug": "kafte-giatroi-tis-syntages",
+      "matched_db_title": "Από κάτω απ' τις ντομάτες",
+      "confidence": 0.588,
+      "match_source": "main",
+      "song_id": "4097"
+    },
+    {
+      "lyric_title": "Νύχτωσε χωρίς φεγγάρι",
+      "url_slug": "nyxtwse-xwris-feggari",
+      "matched_db_title": "Χλωμό φεγγάρι",
+      "confidence": 0.588,
+      "match_source": "main",
+      "song_id": "3048"
+    },
+    {
+      "lyric_title": "Ποιος είμαι δεν θυμάσαι",
+      "url_slug": "poios-eimai-den-thymasai",
+      "matched_db_title": "Πες το ναι και δεν θα χάσεις",
+      "confidence": 0.588,
+      "match_source": "main",
+      "song_id": "10659"
+    },
+    {
+      "lyric_title": "Απ’ όσες κι αν εγνώρισα",
+      "url_slug": "ap-oses-ki-an-egnwrisa",
+      "matched_db_title": "Μακράν κι αν είσαι",
+      "confidence": 0.585,
+      "match_source": "main",
+      "song_id": "5310"
+    },
+    {
+      "lyric_title": "Για μια Κουτσουκαριώτισσα",
+      "url_slug": "gia-mia-koutsoukariwtissa",
+      "matched_db_title": "Για μια μικρούλα",
+      "confidence": 0.585,
+      "match_source": "main",
+      "song_id": "1843"
+    },
+    {
+      "lyric_title": "Όταν πλύνω τουμπεκάκι(Όταν πίνω τουμπεκάκι)",
+      "url_slug": "otan-plynw-toumpekaki--otan-pinw-toumpekaki",
+      "matched_db_title": "Το πίνω μάνα το κρασί",
+      "confidence": 0.585,
+      "match_source": "subtitle",
+      "song_id": "9413"
+    },
+    {
+      "lyric_title": "Πρέπει να ξέρεις μηχανή",
+      "url_slug": "prepei-na-ksereis-mhxanh",
+      "matched_db_title": "Πρέπει να σ' αφήσω",
+      "confidence": 0.585,
+      "match_source": "main",
+      "song_id": "5534"
+    },
+    {
+      "lyric_title": "Το μεροδούλι θα το πιω(Μου το ’παν πως μ’ αρνήθηκες)",
+      "url_slug": "to-merodouli-tha-to-piw--mou-to-pan-pws-m-arnh8hkes",
+      "matched_db_title": "Με βαλς θα σ' το πω",
+      "confidence": 0.585,
+      "match_source": "main",
+      "song_id": "1337"
+    },
+    {
+      "lyric_title": "Βαριά χτυπούν τα σήμαντρα",
+      "url_slug": "baria-xtypoun-ta-shmantra",
+      "matched_db_title": "Τα ματάκια σου τα μαύρα",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "3178"
+    },
+    {
+      "lyric_title": "Βρήκα τον αργιλέ του Αλή Πασά",
+      "url_slug": "brhka-ton-argile-tou-alh-pasa",
+      "matched_db_title": "Βρήκα την αγάπη μου",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "1778"
+    },
+    {
+      "lyric_title": "Δώδεκα η ώρα",
+      "url_slug": "dwdeka-h-wra",
+      "matched_db_title": "Καλή σου ώρα",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "2602"
+    },
+    {
+      "lyric_title": "Είμαι αθώος(Άδικα με κατακρίνουν)",
+      "url_slug": "eimai-athwos--adika-me-katakrinoun",
+      "matched_db_title": "Είμαι μπεκρού",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "9966"
+    },
+    {
+      "lyric_title": "Κορόιδο",
+      "url_slug": "koroido",
+      "matched_db_title": "Κορόιδο Μουσολίνι",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "5571"
+    },
+    {
+      "lyric_title": "Σαν είσαι μάγκας και νταής",
+      "url_slug": "san-eisai-magkas-kai-ntahs",
+      "matched_db_title": "Είμαι μάγκας του Ψυρρή",
+      "confidence": 0.583,
+      "match_source": "main",
+      "song_id": "9910"
+    },
+    {
+      "lyric_title": "Η ζημιά(Κι αν πάθεις και καμιά ζημιά)",
+      "url_slug": "h-zhmia--ki-an-patheis-kai-kamia-zhmia",
+      "matched_db_title": "Κι εσύ θα ξεχάσεις μια μέρα",
+      "confidence": 0.582,
+      "match_source": "subtitle",
+      "song_id": "5275"
+    },
+    {
+      "lyric_title": "Ό,τι άναψε θα σβήσει",
+      "url_slug": "oti-anapse-tha-sbhsei",
+      "matched_db_title": "Ό,τι κι αν κάνεις σε μένα θα πέσεις",
+      "confidence": 0.582,
+      "match_source": "main",
+      "song_id": "2050"
+    },
+    {
+      "lyric_title": "Ό,τι μου κάνεις θα σου κάνω",
+      "url_slug": "oti-mou-kaneis-tha-sou-kanw",
+      "matched_db_title": "Κι αν μου φύγεις και σε χάσω",
+      "confidence": 0.582,
+      "match_source": "main",
+      "song_id": "46"
+    },
+    {
+      "lyric_title": "Συρτός της νύχτας",
+      "url_slug": "syrtos-ths-nyxtas",
+      "matched_db_title": "Συρτός στα δύο",
+      "confidence": 0.581,
+      "match_source": "main",
+      "song_id": "4074"
+    },
+    {
+      "lyric_title": "Γυναίκα σκληρή",
+      "url_slug": "gynaika-sklhrh",
+      "matched_db_title": "Η γυναίκα είναι μυστήριο",
+      "confidence": 0.579,
+      "match_source": "main",
+      "song_id": "26"
+    },
+    {
+      "lyric_title": "Είπα να σβήσω τα παλιά",
+      "url_slug": "eipa-na-sbhsw-ta-palia",
+      "matched_db_title": "Έσπασες τα πιάτα",
+      "confidence": 0.579,
+      "match_source": "main",
+      "song_id": "4961"
+    },
+    {
+      "lyric_title": "Μην κάνεις πια την έξυπνη(Για άκουσε και μένανε)",
+      "url_slug": "mhn-kaneis-pia-thn-eksypnh--gia-akouse-kai-menane",
+      "matched_db_title": "Μες την πλάνη",
+      "confidence": 0.579,
+      "match_source": "main",
+      "song_id": "2688"
+    },
+    {
+      "lyric_title": "Πάψε να με τυραννάς",
+      "url_slug": "papse-na-me-tyrannas",
+      "matched_db_title": "Πάψε να γελάς, πάψε",
+      "confidence": 0.579,
+      "match_source": "main",
+      "song_id": "2273"
+    },
+    {
+      "lyric_title": "Απόψε στο δικό σου μαχαλά",
+      "url_slug": "apopse-sto-diko-sou-maxala",
+      "matched_db_title": "Απόψε που 'χω τάλιρα",
+      "confidence": 0.578,
+      "match_source": "main",
+      "song_id": "1409"
+    },
+    {
+      "lyric_title": "Είμαι στον καημό σου θύμα",
+      "url_slug": "eimai-ston-kahmo-sou-thyma",
+      "matched_db_title": "Όταν είμαι κοντά σου",
+      "confidence": 0.578,
+      "match_source": "main",
+      "song_id": "1844"
+    },
+    {
+      "lyric_title": "Ζεϊμπεκάνο Σπανιόλο(Ζούλα σε μια βάρκα μπήκα)",
+      "url_slug": "zeimpekano-spaniolo--zoula-se-mia-barka-mphka",
+      "matched_db_title": "Με γέλασε μια χαραυγή",
+      "confidence": 0.578,
+      "match_source": "subtitle",
+      "song_id": "9975"
+    },
+    {
+      "lyric_title": "Στο Φάληρο που πλένεσαι",
+      "url_slug": "sto-falhro-pou-plenesai",
+      "matched_db_title": "Τόσον καιρό που ήσουνα",
+      "confidence": 0.578,
+      "match_source": "main",
+      "song_id": "2309"
+    },
+    {
+      "lyric_title": "Αντιλαλούν οι φυλακές",
+      "url_slug": "antilaloun-oi-fylakes",
+      "matched_db_title": "Παραπονιούνται οι μάγκες μας",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "9726"
+    },
+    {
+      "lyric_title": "Είσαι πόντος",
+      "url_slug": "eisai-pontos",
+      "matched_db_title": "Είσαι εσύ",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "11202"
+    },
+    {
+      "lyric_title": "Έχω ζάλη",
+      "url_slug": "exw-zalh",
+      "matched_db_title": "Έχω μια αγάπη",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "23"
+    },
+    {
+      "lyric_title": "Θεέ μου μεγαλοδύναμε",
+      "url_slug": "thee-mou-megalodyname",
+      "matched_db_title": "Φέξε μου φεγγαράκι μου",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "10622"
+    },
+    {
+      "lyric_title": "Κάθε βράδυ πάντα λυπημένη",
+      "url_slug": "kathe-brady-panta-lyphmenh",
+      "matched_db_title": "Κάθε βράδυ",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "1676"
+    },
+    {
+      "lyric_title": "Κάποτε ήμουνα κι εγώ",
+      "url_slug": "kapote-hmouna-ki-egw",
+      "matched_db_title": "Ένα καιρό ήμουνα πουλί",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "4689"
+    },
+    {
+      "lyric_title": "Μια γαλανομάτα",
+      "url_slug": "mia-galanomata",
+      "matched_db_title": "Μια βλαχοπούλα",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "4971"
+    },
+    {
+      "lyric_title": "Μικρός αρραβωνιάστηκα",
+      "url_slug": "mikros-arrabwniasthka",
+      "matched_db_title": "Ο μικρός ψαράς",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "2116"
+    },
+    {
+      "lyric_title": "Τι τραβούμε εμείς οι άντρες",
+      "url_slug": "ti-traboume-emeis-oi-antres",
+      "matched_db_title": "Ούλες οι δάφνες",
+      "confidence": 0.571,
+      "match_source": "main",
+      "song_id": "4682"
+    },
+    {
+      "lyric_title": "Κι αν μεθάω τα βραδάκια",
+      "url_slug": "ki-an-methaw-ta-bradakia",
+      "matched_db_title": "Δεν θέλω τα ματάκια σου",
+      "confidence": 0.565,
+      "match_source": "main",
+      "song_id": "4980"
+    },
+    {
+      "lyric_title": "Ξυπνώ και βλέπω σίδερα(Τα μάνταλα)",
+      "url_slug": "ksypnw-kai-blepw-sidera--ta-mantala",
+      "matched_db_title": "Όταν σε βλέπω κι έρχεσαι",
+      "confidence": 0.565,
+      "match_source": "main",
+      "song_id": "4836"
+    },
+    {
+      "lyric_title": "Σαν μαγεμένο το μυαλό μου",
+      "url_slug": "san-magemeno-to-myalo-mou",
+      "matched_db_title": "Συ μου πήρες το μυαλό",
+      "confidence": 0.565,
+      "match_source": "main",
+      "song_id": "2449"
+    },
+    {
+      "lyric_title": "Μάνα με μαχαιρώσανε",
+      "url_slug": "mana-me-maxairwsane",
+      "matched_db_title": "Η μάνα μου με δέρνει",
+      "confidence": 0.564,
+      "match_source": "main",
+      "song_id": "2996"
+    },
+    {
+      "lyric_title": "Μπέκρος δεν είμαι",
+      "url_slug": "mpekros-den-eimai",
+      "matched_db_title": "Κάτι που δεν ξεχνιέται",
+      "confidence": 0.564,
+      "match_source": "main",
+      "song_id": "1552"
+    },
+    {
+      "lyric_title": "Δε λες κουβέντα",
+      "url_slug": "de-les-koubenta",
+      "matched_db_title": "Αφού δε με κερνάς",
+      "confidence": 0.562,
+      "match_source": "main",
+      "song_id": "82"
+    },
+    {
+      "lyric_title": "Αν μ’ αξιώσει ο Θεός(Πρέπει να χτίσω ένα τζαμί)",
+      "url_slug": "an-m-aksiwsei-o-theos--prepei-na-xtisw-ena-tzami",
+      "matched_db_title": "Πρέπει να σ' αφήσω",
+      "confidence": 0.558,
+      "match_source": "subtitle",
+      "song_id": "5534"
+    },
+    {
+      "lyric_title": "Κι αν είμαι φτωχαδάκι",
+      "url_slug": "ki-an-eimai-ftwxadaki",
+      "matched_db_title": "Όσο κι αν κλάψεις τώρα",
+      "confidence": 0.558,
+      "match_source": "main",
+      "song_id": "66"
+    },
+    {
+      "lyric_title": "Μ’ έκανες και χώρισα",
+      "url_slug": "m-ekanes-kai-xwrisa",
+      "matched_db_title": "Συ μ' έκανες να περπατώ",
+      "confidence": 0.558,
+      "match_source": "main",
+      "song_id": "10577"
+    },
+    {
+      "lyric_title": "Η Χαρτορίχτρα",
+      "url_slug": "h-xartorixtra",
+      "matched_db_title": "Η χαρτορίχτρα (Μια λαϊκή τραγωδία)",
+      "confidence": 0.553,
+      "match_source": "main",
+      "song_id": "1457"
+    },
+    {
+      "lyric_title": "Παρτίδες(Βρε μάγκα το παράκανες)",
+      "url_slug": "partides--bre-magka-to-parakanes",
+      "matched_db_title": "Βρε μάγκες δυο στη φυλακή",
+      "confidence": 0.553,
+      "match_source": "subtitle",
+      "song_id": "4315"
+    },
+    {
+      "lyric_title": "Τα τάλιρα",
+      "url_slug": "ta-talira",
+      "matched_db_title": "Απόψε που 'χω τάλιρα",
+      "confidence": 0.552,
+      "match_source": "main",
+      "song_id": "1409"
+    },
+    {
+      "lyric_title": "Μάγκες μου συμμορφωθείτε",
+      "url_slug": "magkes-mou-symmorfwtheite",
+      "matched_db_title": "Μεγάλε μου έρωτα",
+      "confidence": 0.55,
+      "match_source": "main",
+      "song_id": "2072"
+    },
+    {
+      "lyric_title": "Πέφτεις σε λάθη",
+      "url_slug": "pefteis-se-la8h",
+      "matched_db_title": "Και πέφτεις και σηκώνεσαι",
+      "confidence": 0.55,
+      "match_source": "main",
+      "song_id": "5305"
+    },
+    {
+      "lyric_title": "Τι παράξενη κοπέλα",
+      "url_slug": "ti-paraksenh-kopela",
+      "matched_db_title": "Τι να κάνω η κακομοίρα",
+      "confidence": 0.55,
+      "match_source": "main",
+      "song_id": "9613"
+    },
+    {
+      "lyric_title": "Είσαι ψεύτης Παναγιώτη",
+      "url_slug": "eisai-pseuths-panagiwth",
+      "matched_db_title": "Είσαι για μένα το παν στη ζωή",
+      "confidence": 0.549,
+      "match_source": "main",
+      "song_id": "1895"
+    },
+    {
+      "lyric_title": "Για σε μεθώ καθε βραδια",
+      "url_slug": "gia-se-methw-kathe-bradia",
+      "matched_db_title": "Κάθε βράδυ",
+      "confidence": 0.545,
+      "match_source": "main",
+      "song_id": "1676"
+    },
+    {
+      "lyric_title": "Δεν πρόσεξα τη μάσκα που φορούσες",
+      "url_slug": "den-proseksa-th-maska-pou-forouses",
+      "matched_db_title": "Το ρολογάκι που φορείς",
+      "confidence": 0.545,
+      "match_source": "main",
+      "song_id": "10569"
+    },
+    {
+      "lyric_title": "Η φαντασία στην εξουσία",
+      "url_slug": "h-fantasia-sthn-eksousia",
+      "matched_db_title": "Σαν ξυπνά στην νυχτιά",
+      "confidence": 0.545,
+      "match_source": "main",
+      "song_id": "10271"
+    },
+    {
+      "lyric_title": "Μαύρα τα βλέπω κι άραχνα",
+      "url_slug": "mayra-ta-blepw-ki-araxna",
+      "matched_db_title": "Όταν σε βλέπω κι έρχεσαι",
+      "confidence": 0.542,
+      "match_source": "main",
+      "song_id": "4836"
+    },
+    {
+      "lyric_title": "Στην Καλαμπάκα μια βραδιά",
+      "url_slug": "sthn-kalampaka-mia-bradia",
+      "matched_db_title": "Ήθελα νά βρω μια καρδιά",
+      "confidence": 0.542,
+      "match_source": "main",
+      "song_id": "5050"
+    },
+    {
+      "lyric_title": "Τι καλά το λέει τ’ αηδόνι",
+      "url_slug": "ti-kala-to-leei-t-ahdoni",
+      "matched_db_title": "Λάλα το αηδόνι, λάλα το",
+      "confidence": 0.542,
+      "match_source": "main",
+      "song_id": "3084"
+    },
+    {
+      "lyric_title": "Δίχως παλτό στη χειμωνιά",
+      "url_slug": "dixws-palto-sth-xeimwnia",
+      "matched_db_title": "Έλα στη γωνιά",
+      "confidence": 0.541,
+      "match_source": "main",
+      "song_id": "1942"
+    },
+    {
+      "lyric_title": "Εξεκίνησα ένα βράδυ",
+      "url_slug": "eksekinhsa-ena-brady",
+      "matched_db_title": "Από κείνο το βράδυ",
+      "confidence": 0.541,
+      "match_source": "main",
+      "song_id": "1937"
+    },
+    {
+      "lyric_title": "Λέλα μ’ έφαγε το τσιφτετέλι",
+      "url_slug": "lela-m-efage-to-tsifteteli",
+      "matched_db_title": "Τσιφτετέλι",
+      "confidence": 0.541,
+      "match_source": "main",
+      "song_id": "10127"
+    },
+    {
+      "lyric_title": "Συννεφιασμένη κυριακή",
+      "url_slug": "synnefiasmenh-kyriakh",
+      "matched_db_title": "Μια Κυριακή πρωί",
+      "confidence": 0.541,
+      "match_source": "main",
+      "song_id": "11254"
+    },
+    {
+      "lyric_title": "Απόψε θα πεθάνει ο Χάρος",
+      "url_slug": "apopse-tha-pethanei-o-xaros",
+      "matched_db_title": "Απόψε \r\n(Μ' έκανες να κλάψω)",
+      "confidence": 0.538,
+      "match_source": "main",
+      "song_id": "1324"
+    },
+    {
+      "lyric_title": "Απόψε μ’ εγκατέλειψες",
+      "url_slug": "apopse-m-egkateleipses",
+      "matched_db_title": "Απόψε ναι",
+      "confidence": 0.533,
+      "match_source": "main",
+      "song_id": "2956"
+    },
+    {
+      "lyric_title": "Εγώ μάγκας φαινόμουνα",
+      "url_slug": "egw-magkas-fainomouna",
+      "matched_db_title": "Εγώ 'μαι τ' ορφανό παιδί",
+      "confidence": 0.533,
+      "match_source": "main",
+      "song_id": "4199"
+    },
+    {
+      "lyric_title": "Οι σφουγγαράδες",
+      "url_slug": "oi-sfouggarades",
+      "matched_db_title": "Οι Σουλιώτισσες",
+      "confidence": 0.533,
+      "match_source": "main",
+      "song_id": "5082"
+    },
+    {
+      "lyric_title": "Βαγγελιω δεν είσαι εντάξει",
+      "url_slug": "baggeliw-den-eisai-entaksei",
+      "matched_db_title": "Το φιλί δεν είναι κρίμα",
+      "confidence": 0.531,
+      "match_source": "main",
+      "song_id": "1492"
+    },
+    {
+      "lyric_title": "Θα κάνω ντου βρε πονηρή",
+      "url_slug": "tha-kanw-ntou-bre-ponhrh",
+      "matched_db_title": "Θα κάνω για σένα την τρέλα",
+      "confidence": 0.531,
+      "match_source": "main",
+      "song_id": "77"
+    },
+    {
+      "lyric_title": "Πέντε Έλληνες στον Άδη",
+      "url_slug": "pente-ellhnes-ston-adh",
+      "matched_db_title": "Πέντε κάμαρες γαζέτα",
+      "confidence": 0.524,
+      "match_source": "main",
+      "song_id": "5285"
+    },
+    {
+      "lyric_title": "Σα φουμάρω τσιγαρλίκι",
+      "url_slug": "sa-foumarw-tsigarliki",
+      "matched_db_title": "Γιατί φουμάρω κοκαΐνη",
+      "confidence": 0.524,
+      "match_source": "main",
+      "song_id": "4153"
+    },
+    {
+      "lyric_title": "Φάνταζες σαν πριγκιπέσα",
+      "url_slug": "fantazes-san-prigkipesa",
+      "matched_db_title": "Μια νύχτα σαν απόψε",
+      "confidence": 0.524,
+      "match_source": "main",
+      "song_id": "1332"
+    },
+    {
+      "lyric_title": "Ο χαρμάνης(Χαρμάνης είμαι απ’ το πρωί)",
+      "url_slug": "o-xarmanhs--xarmanhs-eimai-ap-to-prwi",
+      "matched_db_title": "Όταν είμαι κοντά σου",
+      "confidence": 0.522,
+      "match_source": "subtitle",
+      "song_id": "1844"
+    },
+    {
+      "lyric_title": "Στην ξενιτιά απελπισμένος",
+      "url_slug": "sthn-ksenitia-apelpismenos",
+      "matched_db_title": "Στην κεντησμένη σου ποδιά",
+      "confidence": 0.52,
+      "match_source": "main",
+      "song_id": "4253"
+    },
+    {
+      "lyric_title": "Στο τάγμα τηλεγραφητών(Ο ασυρματιστής)",
+      "url_slug": "sto-tagma-thlegrafhtwn--o-asyrmatisths",
+      "matched_db_title": "Το Ελληνικό Τάγμα στην Κορέα",
+      "confidence": 0.52,
+      "match_source": "main",
+      "song_id": "2301"
+    },
+    {
+      "lyric_title": "Η έμορφη Αττάλεια",
+      "url_slug": "h-emorfh-attaleia",
+      "matched_db_title": "Μια έμορφη",
+      "confidence": 0.519,
+      "match_source": "main",
+      "song_id": "10227"
+    },
+    {
+      "lyric_title": "Εφουμέρναμ’ ενα βραδυ",
+      "url_slug": "efoumernam-ena-brady",
+      "matched_db_title": "Ας ερχόσουν για λίγο μοναχά για ένα βράδυ",
+      "confidence": 0.516,
+      "match_source": "main",
+      "song_id": "11440"
+    },
+    {
+      "lyric_title": "Βουνό με βουνό(Το βουνό με το βουνό δε σμίγει)",
+      "url_slug": "bouno-me-bouno--to-bouno-me-to-bouno-de-smigei",
+      "matched_db_title": "Ανέβα Μήτρο στο βουνό",
+      "confidence": 0.514,
+      "match_source": "main",
+      "song_id": "10122"
+    },
+    {
+      "lyric_title": "Πριν το χάραμα",
+      "url_slug": "prin-to-xarama",
+      "matched_db_title": "Πριν η ψυχή μου αναβή",
+      "confidence": 0.514,
+      "match_source": "main",
+      "song_id": "10041"
+    },
+    {
+      "lyric_title": "Χαρέμια με διαμάντια",
+      "url_slug": "xaremia-me-diamantia",
+      "matched_db_title": "Si no me amaras",
+      "confidence": 0.514,
+      "match_source": "slug",
+      "song_id": "9397"
+    },
+    {
+      "lyric_title": "Αρρώστησα μανούλα",
+      "url_slug": "arrwsthsa-manoula",
+      "matched_db_title": "Δεν ημπορώ μανούλα μου",
+      "confidence": 0.513,
+      "match_source": "main",
+      "song_id": "4779"
+    },
+    {
+      "lyric_title": "Μου ’φαγες όλα τα δαχτυλίδια",
+      "url_slug": "mou-fages-ola-ta-daxtylidia",
+      "matched_db_title": "Όλα τα πουλάκια",
+      "confidence": 0.512,
+      "match_source": "main",
+      "song_id": "3036"
+    },
+    {
+      "lyric_title": "Όσα δε φτάνει η αλεπού",
+      "url_slug": "osa-de-ftanei-h-alepou",
+      "matched_db_title": "Δε βάσταξες αγάπη μου",
+      "confidence": 0.512,
+      "match_source": "main",
+      "song_id": "2776"
+    },
+    {
+      "lyric_title": "Ρε παιδιά με συγχωρείτε",
+      "url_slug": "re-paidia-me-sygxwreite",
+      "matched_db_title": "Τα παιδιά της αγοράς",
+      "confidence": 0.512,
+      "match_source": "main",
+      "song_id": "10691"
+    },
+    {
+      "lyric_title": "Στο γυρο της ακρόπολης",
+      "url_slug": "sto-gyro-ths-akropolhs",
+      "matched_db_title": "Sto palati tis agapis",
+      "confidence": 0.512,
+      "match_source": "slug",
+      "song_id": "9621"
+    },
+    {
+      "lyric_title": "Αράπικο Λουλούδι",
+      "url_slug": "arapiko-louloudi",
+      "matched_db_title": "Μεξικάνικο λουλούδι\r\n(Mexicali Rose)",
+      "confidence": 0.5,
+      "match_source": "main",
+      "song_id": "3363"
+    },
+    {
+      "lyric_title": "Αργοσβήνεις μόνη",
+      "url_slug": "argosbhneis-monh",
+      "matched_db_title": "Γκάιντα μονή",
+      "confidence": 0.5,
+      "match_source": "main",
+      "song_id": "9916"
+    },
+    {
+      "lyric_title": "Τ’ αηδόνια της Ανατολής",
+      "url_slug": "t-ahdonia-ths-anatolhs",
+      "matched_db_title": "Με τ' αηδόνια",
+      "confidence": 0.5,
+      "match_source": "main",
+      "song_id": "9773"
+    },
+    {
+      "lyric_title": "Είσ’ αφράτη σαν φραντζόλα(Η φραντζολίτσα)",
+      "url_slug": "eis-afrath-san-frantzola--h-frantzolitsa",
+      "matched_db_title": "Hotel Fairmont, San Francisco, California",
+      "confidence": 0.492,
+      "match_source": "slug",
+      "song_id": "509"
+    },
+    {
+      "lyric_title": "Εάν δεν ήσουν φθισικιά",
+      "url_slug": "ean-den-hsoun-fthisikia",
+      "matched_db_title": "Κανείς δεν με θέλει",
+      "confidence": 0.488,
+      "match_source": "main",
+      "song_id": "1904"
+    },
+    {
+      "lyric_title": "Κεμάλ(Καληνύχτα Κεμάλ)",
+      "url_slug": "kemal--kalhnyxta-kemal",
+      "matched_db_title": "Καληνύχτα μίο αμόρ - Αθήνα\r\n(Atene)",
+      "confidence": 0.48,
+      "match_source": "subtitle",
+      "song_id": "3365"
+    },
+    {
+      "lyric_title": "Αλήτη μ’ έκανες",
+      "url_slug": "alhth-m-ekanes",
+      "matched_db_title": "Συ μ' έκανες να περπατώ",
+      "confidence": 0.474,
+      "match_source": "main",
+      "song_id": "10577"
+    },
+    {
+      "lyric_title": "Εδώ πληρώνονται όλα",
+      "url_slug": "edw-plhrwnontai-ola",
+      "matched_db_title": "Ποντάρω όλα τα ψιλά",
+      "confidence": 0.474,
+      "match_source": "main",
+      "song_id": "10520"
+    },
+    {
+      "lyric_title": "Ας μην ξημέρωνε ποτέ",
+      "url_slug": "as-mhn-kshmerwne-pote",
+      "matched_db_title": "Μην περιμένεις",
+      "confidence": 0.471,
+      "match_source": "main",
+      "song_id": "1487"
+    },
+    {
+      "lyric_title": "Πέφτουν της βροχής οι στάλες",
+      "url_slug": "peftoun-ths-broxhs-oi-stales",
+      "matched_db_title": "Ούλες οι δάφνες",
+      "confidence": 0.465,
+      "match_source": "main",
+      "song_id": "4682"
+    },
+    {
+      "lyric_title": "Οι φωνογραφιτζήδες",
+      "url_slug": "oi-fwnografitzhdes",
+      "matched_db_title": "Οι κομμουνίστριες",
+      "confidence": 0.457,
+      "match_source": "main",
+      "song_id": "10433"
+    },
+    {
+      "lyric_title": "Φυσάει ο μπάτης",
+      "url_slug": "fysaei-o-mpaths",
+      "matched_db_title": "Ο Μπάτης ο ντερβίσης",
+      "confidence": 0.457,
+      "match_source": "main",
+      "song_id": "9879"
+    },
+    {
+      "lyric_title": "Χτύπα με μοίρα, χτύπα με",
+      "url_slug": "xtypa-me-moira-xtypa-me",
+      "matched_db_title": "Μια καρδιά που χτυπά",
+      "confidence": 0.455,
+      "match_source": "main",
+      "song_id": "2024"
+    },
+    {
+      "lyric_title": "Θ’ αφήσω γένια και μαλλιά",
+      "url_slug": "th-afhsw-genia-kai-mallia",
+      "matched_db_title": "Τα κομμένα τα μαλλιά σου",
+      "confidence": 0.449,
+      "match_source": "main",
+      "song_id": "4058"
+    },
+    {
+      "lyric_title": "Γκιούλ Μπαχάρ",
+      "url_slug": "gkioul-mpaxar",
+      "matched_db_title": "Μπαχάρ Γκελντί",
+      "confidence": 0.444,
+      "match_source": "main",
+      "song_id": "4404"
+    },
+    {
+      "lyric_title": "Καίγομαι καίγομαι",
+      "url_slug": "kaigomai-kaigomai",
+      "matched_db_title": "Μερακλή ραστ μανές - Αφήστε με να καίγομαι",
+      "confidence": 0.441,
+      "match_source": "main",
+      "song_id": "4752"
+    },
+    {
+      "lyric_title": "Ο πόνος του πρεζάκια",
+      "url_slug": "o-ponos-tou-prezakia",
+      "matched_db_title": "Κρυφός πόνος",
+      "confidence": 0.438,
+      "match_source": "main",
+      "song_id": "11348"
+    },
+    {
+      "lyric_title": "Με έμπλεξες βρε πονηρή",
+      "url_slug": "me-emplekses-bre-ponhrh",
+      "matched_db_title": "Χετζάζ (Γιατί βρε τύχη άπονη)",
+      "confidence": 0.431,
+      "match_source": "main",
+      "song_id": "9795"
+    },
+    {
+      "lyric_title": "Τα νησιά",
+      "url_slug": "ta-nhsia",
+      "matched_db_title": "Τα νησιά\r\n(Ο Χάρος έστησε χορό)",
+      "confidence": 0.41,
+      "match_source": "main",
+      "song_id": "3230"
+    },
+    {
+      "lyric_title": "Ώρες με θρέφει ο λουλάς",
+      "url_slug": "wres-me-threfei-o-loulas",
+      "matched_db_title": "Si no me amaras",
+      "confidence": 0.41,
+      "match_source": "slug",
+      "song_id": "9397"
+    },
+    {
+      "lyric_title": "Μενεξέδες και ζουμπούλια",
+      "url_slug": "meneksedes-kai-zoumpoulia",
+      "matched_db_title": "Ένα μπουκέτο μενεξέδες",
+      "confidence": 0.391,
+      "match_source": "main",
+      "song_id": "67"
+    },
+    {
+      "lyric_title": "Παλιός σκοπός",
+      "url_slug": "palios-skopos",
+      "matched_db_title": "Παλιός θρύλος\r\n(Φαντασία για πιάνο)",
+      "confidence": 0.375,
+      "match_source": "main",
+      "song_id": "75"
+    },
+    {
+      "lyric_title": "Αχάριστη",
+      "url_slug": "axaristh",
+      "matched_db_title": "Η αχάριστη (Μια μελαγχολική ιστορία)",
+      "confidence": 0.364,
+      "match_source": "main",
+      "song_id": "1451"
+    },
+    {
+      "lyric_title": "Στο Χόλυγουντ",
+      "url_slug": "sto-xolygount",
+      "matched_db_title": "Sto palati tis agapis",
+      "confidence": 0.353,
+      "match_source": "slug",
+      "song_id": "9621"
+    },
+    {
+      "lyric_title": "Βαριά χτυπάει η καμπάνα",
+      "url_slug": "baria-xtypaei-h-kampana",
+      "matched_db_title": "Με την ψυχή βαριά (Χαίρε Μαρία)\r\n(La novia)",
+      "confidence": 0.333,
+      "match_source": "main",
+      "song_id": "2791"
+    },
+    {
+      "lyric_title": "Για ’σένα ρούσα και ξανθιά",
+      "url_slug": "gia-sena-rousa-kai-ksanthia",
+      "matched_db_title": "Η ξανθιά βαρωνέζα",
+      "confidence": 0.326,
+      "match_source": "main",
+      "song_id": "10477"
+    },
+    {
+      "lyric_title": "Δωμάτιο στο Άμστερνταμ",
+      "url_slug": "dwmatio-sto-amsterntam",
+      "matched_db_title": "Sto palati tis agapis",
+      "confidence": 0.326,
+      "match_source": "slug",
+      "song_id": "9621"
+    },
+    {
+      "lyric_title": "Ο Μαρίνος",
+      "url_slug": "o-marinos",
+      "matched_db_title": "Μαρίνος Γαβριήλ και Φώτης Μιχαλόπουλος",
+      "confidence": 0.298,
+      "match_source": "main",
+      "song_id": "3923"
+    },
+    {
+      "lyric_title": "Χατζή μπαξές(Μπαξέ τσιφλίκι)",
+      "url_slug": "xatzh-mpakses--mpakse-tsifliki",
+      "matched_db_title": "Ο Βεληγκέκας στο μπαξέ",
+      "confidence": 0.278,
+      "match_source": "subtitle",
+      "song_id": "4741"
+    },
+    {
+      "lyric_title": "Μ’ αεροπλάνα και βαπόρια",
+      "url_slug": "m-aeroplana-kai-baporia",
+      "matched_db_title": "Ας ήταν λίγο να μ’ αγαπούσες",
+      "confidence": 0.269,
+      "match_source": "main",
+      "song_id": "1433"
+    },
+    {
+      "lyric_title": "Η παλιοτρεχαντήρα(Ομπι ομπι μπι)",
+      "url_slug": "h-paliotrexanthra--ompi-ompi-mpi",
+      "matched_db_title": "H βοσκοπούλα\r\n(L'amant de la bergère)",
+      "confidence": 0.259,
+      "match_source": "slug",
+      "song_id": "11524"
+    },
+    {
+      "lyric_title": "Το 1912",
+      "url_slug": "to-1912",
+      "matched_db_title": "Η Αθηναϊκή Μαντολινάτα στο Carnegie Hall το 1912",
+      "confidence": 0.255,
+      "match_source": "main",
+      "song_id": "10992"
+    },
+    {
+      "lyric_title": "48 χιλιάρικα",
+      "url_slug": "48-xiliarika",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Aλανάκι(Aλανάκι με φωνάζουν)",
+      "url_slug": "alanaki--alanaki-me-fwnazoun",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Miss odeon",
+      "url_slug": "miss-odeon",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ακρογιαλιές δειλινά",
+      "url_slug": "akrogialies-deilina",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Αλάνα Πειραιώτισσα",
+      "url_slug": "alana-peiraiwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Αλανιάρης",
+      "url_slug": "alaniarhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ανδριώτισσα",
+      "url_slug": "andriwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Απελπίστηκα",
+      "url_slug": "apelpisthka",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Άτακτη",
+      "url_slug": "atakth",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Αφ’ ότου εγεννήθηκα",
+      "url_slug": "af-otou-egennh8hka",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Αψιλίες",
+      "url_slug": "apsilies",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Βαδίζω και παραμιλώ",
+      "url_slug": "badizw-kai-paramilw",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Γαλανομάτα",
+      "url_slug": "galanomata",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Γιαννούσαινα",
+      "url_slug": "giannousaina",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Γκιντελίμ",
+      "url_slug": "gkintelim",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ευβοιώτισσα",
+      "url_slug": "euboiwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ζευγολατιώτισσα",
+      "url_slug": "zeugolatiwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ζηλιάρα",
+      "url_slug": "zhliara",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ζωνάρι",
+      "url_slug": "zwnari",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Κλωστηρού",
+      "url_slug": "h-klwsthrou",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Κολπατζού",
+      "url_slug": "h-kolpatzou",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Κρίσις",
+      "url_slug": "h-krisis",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Νταλίκα",
+      "url_slug": "h-ntalika",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Πειραιώτισσα",
+      "url_slug": "h-peiraiwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η Σεράχ",
+      "url_slug": "h-serax",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η γάτα",
+      "url_slug": "h-gata",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η γκρινιάρα",
+      "url_slug": "h-gkriniara",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η δολοφόνισσα",
+      "url_slug": "h-dolofonissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η κοτούλα",
+      "url_slug": "h-kotoula",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η ορφάνια",
+      "url_slug": "h-orfania",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η πλημμύρα",
+      "url_slug": "h-plhmmyra",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η ταμπακέρα(Η ταμπακιέρα)",
+      "url_slug": "h-tampakera--h-tampakiera",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η τίγρης",
+      "url_slug": "h-tigrhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Η τσερκέζα",
+      "url_slug": "h-tserkeza",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ήρθαμε να γλεντήσουμε",
+      "url_slug": "hrthame-na-glenthsoume",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Θα σαλτάρω",
+      "url_slug": "tha-saltarw",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Καβαλιώτισσα",
+      "url_slug": "kabaliwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Καϊξής",
+      "url_slug": "kaikshs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Καλλιθιώτισσα τσακίστρα",
+      "url_slug": "kallithiwtissa-tsakistra",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Καμηλιέρικο",
+      "url_slug": "kamhlieriko",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Κανελόριζα",
+      "url_slug": "kaneloriza",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Κάντονε Σταύρο κάντονε(Κάφ’ τονε Σταύρο κάφ’ τονε)",
+      "url_slug": "kantone-stayro-kantone--kaf-tone-stayro-kaf-tone",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Καραντουζένι",
+      "url_slug": "karantouzeni",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Κολωνάκι Τζιτζιφιές",
+      "url_slug": "kolwnaki-tzitzifies",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Κοντραμπατζήδες",
+      "url_slug": "kontrampatzhdes",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Κρασοπίνω",
+      "url_slug": "krasopinw",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Λειώνω μυστικά",
+      "url_slug": "leiwnw-mystika",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Λοξοδρόμια",
+      "url_slug": "loksodromia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Μαρόκο",
+      "url_slug": "maroko",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Μαστόρισσα",
+      "url_slug": "mastorissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο Αγνοούμενος",
+      "url_slug": "o-agnooumenos",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο Μαστούρας",
+      "url_slug": "o-mastouras",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο αναπτήρας",
+      "url_slug": "o-anapthras",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο αραμπατζής",
+      "url_slug": "o-arampatzhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο βράχος",
+      "url_slug": "o-braxos",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο γλεντζές",
+      "url_slug": "o-glentzes",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο γρουσούζης",
+      "url_slug": "o-grousouzhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο γυρισμός",
+      "url_slug": "o-gyrismos",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο θερμαστής",
+      "url_slug": "o-thermasths",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο ισοβίτης",
+      "url_slug": "o-isobiths",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο μαχαλόμαγκας",
+      "url_slug": "o-maxalomagkas",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο μπουφετζής",
+      "url_slug": "o-mpoufetzhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο ναύτης",
+      "url_slug": "o-nayths",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο παπάς",
+      "url_slug": "o-papas",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο παπατζής",
+      "url_slug": "o-papatzhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο πειρατής",
+      "url_slug": "o-peiraths",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο σαλταδόρος",
+      "url_slug": "o-saltadoros",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο συνάχης",
+      "url_slug": "o-synaxhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο φασουλάς",
+      "url_slug": "o-fasoulas",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο φιγουρατζής",
+      "url_slug": "o-figouratzhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ο χασάπης",
+      "url_slug": "o-xasaphs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Οι γιαγιάδες",
+      "url_slug": "oi-giagiades",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Οι γυρολόγοι",
+      "url_slug": "oi-gyrologoi",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Οι φάμπρικες(Σφυρίζει η φάμπρικα)",
+      "url_slug": "oi-famprikes--sfyrizei-h-famprika",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Περιπλανώμενος",
+      "url_slug": "periplanwmenos",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Πεχλιβάνης",
+      "url_slug": "pexlibanhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Πλάτσα πλούτσα",
+      "url_slug": "platsa-ploutsa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ποδαριώτισσα",
+      "url_slug": "podariwtissa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Πριγκηπομαστούρηδες",
+      "url_slug": "prigkhpomastourhdes",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ριτάκι",
+      "url_slug": "ritaki",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Ροζίκα",
+      "url_slug": "rozika",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Σιγανοπαπαδίτσα",
+      "url_slug": "siganopapaditsa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Σκληρόκαρδη",
+      "url_slug": "sklhrokardh",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Σούρα και μαστούρα",
+      "url_slug": "soura-kai-mastoura",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Στάθηκα πενιές να ακούσω",
+      "url_slug": "sta8hka-penies-na-akousw",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Σταλαγματιά, σταλαγματιά",
+      "url_slug": "stalagmatia-stalagmatia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τα καβουράκια",
+      "url_slug": "ta-kabourakia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τα ναυάγια",
+      "url_slug": "ta-nauagia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τα παλαμάκια",
+      "url_slug": "ta-palamakia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τα πρωτοβρόχια",
+      "url_slug": "ta-prwtobroxia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τα τσαγκαράκια",
+      "url_slug": "ta-tsagkarakia",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το Ανεστάκι",
+      "url_slug": "to-anestaki",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το διαζύγιο",
+      "url_slug": "to-diazygio",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το δίχτυ",
+      "url_slug": "to-dixty",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το καπηλειό",
+      "url_slug": "to-kaphleio",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το μαγκαλάκι",
+      "url_slug": "to-magkalaki",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το ξεφάντωμα",
+      "url_slug": "to-ksefantwma",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το παλαμίδι",
+      "url_slug": "to-palamidi",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το πιτσιρικάκι",
+      "url_slug": "to-pitsirikaki",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το πορτοφόλι",
+      "url_slug": "to-portofoli",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Το πρακτορείο",
+      "url_slug": "to-praktoreio",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Τρελέ τσιγγάνε",
+      "url_slug": "trele-tsiggane",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Φελάχες γλυκές",
+      "url_slug": "felaxes-glykes",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Φραγκοσυριανή",
+      "url_slug": "fragkosyrianh",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Χαϊδάρι",
+      "url_slug": "xaidari",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Χατζηκυριάκειο(Αποβραδίς ξεκίνησα)",
+      "url_slug": "xatzhkyriakeio--apobradis-ksekinhsa",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    },
+    {
+      "lyric_title": "Χλαπάτσος και Μπισμπιρής",
+      "url_slug": "xlapatsos-kai-mpismpirhs",
+      "matched_db_title": null,
+      "confidence": 0.0,
+      "match_source": "",
+      "song_id": null
+    }
+  ]
+}

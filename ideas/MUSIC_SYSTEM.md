@@ -1,10 +1,12 @@
-# Music System Design
-
-> **Version:** 1.0 | **Status:** Draft | **Updated:** 2025-01-15
-> **Depends on:** DESIGN.md, STORYLET_FORMAT.md
-> **Dependents:** storylets (performance chains), schema.sql
-
 ---
+status: draft
+version: 1.0.0
+last_updated: 2026-01-01
+dependencies: DESIGN.md, STORYLET_FORMAT.md
+dependents: storylets (performance chains), DATABASE_MIGRATIONS.md
+---
+
+# Music System Design
 
 ## Overview
 

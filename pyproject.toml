@@ -1,9 +1,18 @@
 [project]
-name = "my-python-project"  # CUSTOMIZE: Change this to your project name
+name = "rebetiko-game"
 version = "0.1.0"
-description = "A Python project"  # CUSTOMIZE: Add your project description
+description = "Ο Δρόμος του Μάγκα - Rebetiko narrative game tools and content pipeline"
 requires-python = ">=3.12"
-dependencies = []  # CUSTOMIZE: Add your project dependencies here
+dependencies = [
+    "chromadb>=0.5.0",         # Vector database for RAG
+    "sqlite-utils>=3.37",      # SQLite utilities
+    "pandas>=2.2.0",           # Data manipulation (optional, for analysis)
+    "tqdm>=4.66.0",            # Progress bars
+    # anthropic - not needed, using Claude Code for processing
+    "alembic>=1.17.2",
+    "lxml>=6.0.2",
+    "beautifulsoup4>=4.14.3",
+]
 
 [dependency-groups]
 dev = [

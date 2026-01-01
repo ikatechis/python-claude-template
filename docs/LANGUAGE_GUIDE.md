@@ -1,10 +1,12 @@
-# Language & Localization Guide
-
-> **Version:** 1.0 | **Status:** Draft | **Updated:** 2025-01-15
-> **Depends on:** DESIGN.md
-> **Dependents:** All storylet content, UI text
-
 ---
+status: draft
+version: 1.0.0
+last_updated: 2026-01-01
+dependencies: DESIGN.md
+dependents: All storylet content, UI text
+---
+
+# Language & Localization Guide
 
 ## Overview
 

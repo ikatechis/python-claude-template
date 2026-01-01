@@ -1,3 +1,9 @@
+---
+status: stable
+version: 1.0.0
+last_updated: 2026-01-01
+---
+
 # Rebetiko Slang Glossary
 
 **Γλωσσάριο αργκό του ρεμπέτικου** — για διαλόγους και αφήγηση.

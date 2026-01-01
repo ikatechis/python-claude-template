@@ -281,7 +281,7 @@ def generate_with_context(prompt: str, query: str = None) -> str:
     full_prompt = f"""
 {context}
 
-Χρησιμοποίησε το παραπάνω context για να απαντήσεις. Η απάντηση πρέπει να είναι στα Ελληνικά και να είναι ιστορικά ακριβής με βάση τα στοιχεία που δόθηκαν.
+Use the above context to inform your response. Your response should be in English prose with Greek terms integrated naturally where appropriate (see LANGUAGE_GUIDE.md for guidelines). The content must be historically accurate based on the retrieved context.
 
 {prompt}
 """
@@ -298,12 +298,12 @@ def generate_with_context(prompt: str, query: str = None) -> str:
 # Example usage
 if __name__ == "__main__":
     # Test query
-    result = query_context("τραγούδι για την ξενιτιά και τη μοναξιά")
+    result = query_context("songs about exile and loneliness")
     print(result)
 
     # Test generation
     storylet = generate_with_context(
-        "Γράψε ένα storylet για τον τεκέ όπου ο παίκτης ακούει για πρώτη φορά ζωντανό ρεμπέτικο."
+        "Write a storylet for the tekes where the player hears live rebetiko for the first time."
     )
     print(storylet)
 ```
@@ -325,116 +325,26 @@ When using Claude Code for content generation, the workflow is:
 from rag_query import generate_with_context
 
 storylet_prompt = """
-Δημιούργησε ένα storylet σε JSON format για την τοποθεσία "tekes".
+Create a storylet in JSON format for the location "tekes".
 
-Απαιτήσεις:
-- Ο παίκτης είναι νέος στον τεκέ
-- Πρέπει να περιγραφεί η ατμόσφαιρα (καπνός, μουσική, φως από λάμπα)
-- Να υπάρχει διάλογος με την Κυρά-Σοφία (ιδιοκτήτρια)
-- Τουλάχιστον 3 επιλογές για τον παίκτη
-- Χρησιμοποίησε αυθεντική αργκό της εποχής
+Requirements:
+- The player is new to the tekes
+- Describe the atmosphere (smoke, music, lamplight)
+- Include dialogue with Kyra Sofia (the owner)
+- At least 3 choices for the player
+- Use authentic period slang, integrated naturally (see LANGUAGE_GUIDE.md)
+- Write in English prose with Greek terms where appropriate
 
-Ακολούθησε το format από το STORYLET_FORMAT.md
+Follow the format from STORYLET_FORMAT.md
 """
 
 result = generate_with_context(
     storylet_prompt,
-    query="τεκές χασίς μουσική ατμόσφαιρα ρεμπέτικο"
+    query="tekes hashish music atmosphere rebetiko"
 )
 
 print(result)
 ```
-
----
-
-## Notion MCP Integration
-
-To connect Claude Code directly to Notion:
-
-### 1. Get Notion API Key
-
-1. Go to https://www.notion.so/my-integrations
-2. Create a new integration
-3. Copy the API key
-
-### 2. Configure MCP Server
-
-In your Claude Code settings (`.claude/settings.json` or via CLI):
-
-```json
-{
-  "mcpServers": {
-    "notion": {
-      "command": "npx",
-      "args": ["-y", "@notionhq/notion-mcp-server"],
-      "env": {
-        "NOTION_API_KEY": "your-notion-api-key"
-      }
-    }
-  }
-}
-```
-
-### 3. Share Pages with Integration
-
-In Notion:
-1. Open your workspace
-2. Go to Settings & Members → Connections
-3. Add your integration
-4. Share specific pages/databases with the integration
-
-### 4. Use in Claude Code
-
-Once configured, Claude Code can:
-- Create new pages
-- Update databases
-- Query existing content
-- Manage tasks
-
-Example commands in Claude Code:
-```
-"Create a new page in the Storylets database for tekes_ambient_01"
-"Update the status of task 'Implement time system' to In Progress"
-"Show me all NPCs marked as 'needs portrait'"
-```
-
----
-
-## Recommended Notion Structure
-
-For the MCP integration to work well, set up these databases:
-
-### Tasks Database
-- Name (title)
-- Status (select: Backlog, Todo, In Progress, Done, Blocked)
-- Phase (select: 0, 1, 2, 3)
-- Category (select: Code, Art, Writing, Design, Research)
-- Priority (select: P0, P1, P2, P3)
-- Estimated Hours (number)
-
-### Storylets Database
-- ID (title)
-- Location (relation to Locations)
-- Status (select: Idea, Draft, Written, Implemented, Tested)
-- Priority (number)
-- Tags (multi-select)
-- Content Preview (text)
-- JSON (code block or text)
-
-### NPCs Database
-- Name (title)
-- Greek Name (text)
-- Location (relation to Locations)
-- Archetype (select)
-- Portrait Status (select: Needed, In Progress, Done)
-- Implementation Status (select)
-
-### Locations Database
-- Name (title)
-- Greek Name (text)
-- Type (select: Hub, Path-Specific, Sub-location)
-- Art Status (select: Needed, Concept, Final)
-- Variants Needed (multi-select: Day, Night, Rain, etc.)
 
 ---
 

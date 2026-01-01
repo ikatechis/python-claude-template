@@ -12,6 +12,8 @@ last_updated: 2025-01-01
 
 Storylets are the atomic unit of narrative content. Each storylet is a self-contained scene with conditions, content, choices, and effects.
 
+**Language:** All storylet content is written in English prose with Greek terms integrated naturally where they capture untranslatable concepts. See `docs/LANGUAGE_GUIDE.md` for detailed guidelines on language use.
+
 ---
 
 ## JSON Schema

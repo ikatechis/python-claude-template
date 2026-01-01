@@ -1,3 +1,9 @@
+---
+status: draft
+version: 1.0.0
+last_updated: 2026-01-01
+---
+
 # Ideas & Brainstorming Pool
 
 This document is a living collection of ideas, fragments, and potential content for the game. Everything here is raw material for storylets, characters, mechanics, and moments.

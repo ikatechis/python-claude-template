@@ -1,14 +1,16 @@
-# Art Guide
-
-> **Version:** 2.0 | **Status:** Draft | **Updated:** 2025-01-15
-> **Depends on:** DESIGN.md
-> **Dependents:** All visual assets
-
 ---
+status: draft
+version: 2.0.0
+last_updated: 2026-01-01
+dependencies: DESIGN.md
+dependents: All visual assets
+---
+
+# Art Guide
 
 ## Overview
 
-The game uses **high-detail 16-bit pixel art** in the style of modern point-and-click adventures like *Norco*, *Signalis*, and the reference image (Grok-generated tekes scene). The aesthetic combines 1930s Greek atmosphere with pixel art's capacity for atmospheric dithering, limited palettes, and nostalgic warmth.
+The game uses **high-detail 32-bit pixel art** in the style of modern point-and-click adventures like *Norco*, *Signalis*, and the reference image (Grok-generated tekes scene). The aesthetic combines 1930s Greek atmosphere with pixel art's capacity for atmospheric dithering, limited palettes, and nostalgic warmth.
 
 **Key references:**
 - 1930s Greek documentary photography
