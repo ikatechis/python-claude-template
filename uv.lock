@@ -1903,6 +1903,7 @@ dependencies = [
     { name = "chromadb" },
     { name = "lxml" },
     { name = "pandas" },
+    { name = "requests" },
     { name = "sqlite-utils" },
     { name = "tqdm" },
 ]
@@ -1923,6 +1924,7 @@ requires-dist = [
     { name = "chromadb", specifier = ">=0.5.0" },
     { name = "lxml", specifier = ">=6.0.2" },
     { name = "pandas", specifier = ">=2.2.0" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "sqlite-utils", specifier = ">=3.37" },
     { name = "tqdm", specifier = ">=4.66.0" },
 ]

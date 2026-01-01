@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Scrape genre/collection mappings from vmrebetiko.gr.
 
-Queries search pages for each genre to build item-to-genre mappings.
+CORRECT VERSION: Uses /search/?fmid=f&g=GENRE_NAME (filtered search mode).
+
+The key is using fmid=f (filtered search) instead of fmid=p (pagination).
 """
 
 import json
@@ -16,8 +18,8 @@ from bs4 import BeautifulSoup
 # Disable SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# Collection IDs found on the musicalgenres page
-COLLECTIONS = {
+# Genre names for filtered search
+GENRES = {
     "rebetiko": "Ρεμπέτικο",
     "astiko_laiko": "Αστικό λαϊκό",
     "amanes": "Αμανές",
@@ -51,17 +53,25 @@ def get_page(url: str, params: dict | None = None) -> BeautifulSoup | None:
         response.encoding = response.apparent_encoding
         return BeautifulSoup(response.text, "lxml")
     except requests.RequestException as e:
-        print(f"Error fetching {url}: {e}", file=sys.stderr)
+        print(f"\nError fetching {url}: {e}", file=sys.stderr)
         return None
 
 
-def get_search_page_items(page_num: int, genre: str) -> list[str]:
-    """Get all item IDs from a search results page for a specific genre."""
+def get_search_page_items(page_num: int, genre_name: str) -> list[str]:
+    """Get all item IDs from a filtered search page.
+
+    Args:
+        page_num: Page number (0-indexed)
+        genre_name: Greek genre name (e.g., 'Ρεμπέτικο')
+
+    Returns:
+        List of item IDs found on this page
+    """
     url = "https://vmrebetiko.gr/search/"
     params = {
-        "fmid": "p",
+        "fmid": "f",  # CRITICAL: 'f' = filtered search, 'p' = pagination (no filter)
         "pg": str(page_num),
-        "g": genre,
+        "g": genre_name,
     }
 
     soup = get_page(url, params)
@@ -86,7 +96,7 @@ def scrape_genre(genre_id: str, genre_name: str) -> list[str]:
     """Scrape all item IDs for a given genre.
 
     Returns:
-        List of item IDs belonging to this genre
+        List of unique item IDs belonging to this genre
     """
     print(f"\n{'=' * 60}")
     print(f"Scraping: {genre_name} ({genre_id})")
@@ -94,7 +104,7 @@ def scrape_genre(genre_id: str, genre_name: str) -> list[str]:
 
     all_item_ids = []
     page_num = 0
-    max_empty_pages = 3  # Stop after 3 consecutive empty pages
+    max_empty_pages = 3
 
     empty_page_count = 0
 
@@ -109,14 +119,13 @@ def scrape_genre(genre_id: str, genre_name: str) -> list[str]:
                 print(f"  Stopping after {max_empty_pages} empty pages")
                 break
         else:
-            empty_page_count = 0  # Reset counter
+            empty_page_count = 0
             all_item_ids.extend(item_ids)
             print(f"✓ {len(item_ids)} items (total: {len(all_item_ids)})")
 
         page_num += 1
-        time.sleep(0.5)  # Be nice to the server
+        time.sleep(0.5)
 
-    # Deduplicate
     unique_ids = list(dict.fromkeys(all_item_ids))
     print(f"\n  Total unique items: {len(unique_ids)}")
 
@@ -127,15 +136,16 @@ def main() -> None:
     """Main scraping logic."""
     output_file = Path(__file__).parent.parent / "database" / "analysis" / "genre_mappings.json"
 
-    print("VMRebetiko.gr Genre Mapping Scraper")
+    print("VMRebetiko.gr Genre Mapping Scraper (CORRECTED)")
     print("=" * 60)
-    print(f"Collections to scrape: {len(COLLECTIONS)}")
+    print(f"Genres to scrape: {len(GENRES)}")
+    print("Using: fmid=f (filtered search)")
     print(f"Output file: {output_file}")
     print("=" * 60)
 
     genre_mappings = {}
 
-    for genre_id, genre_name in COLLECTIONS.items():
+    for genre_id, genre_name in GENRES.items():
         item_ids = scrape_genre(genre_id, genre_name)
         genre_mappings[genre_id] = {
             "name_en": genre_id.replace("_", " ").title(),
@@ -144,7 +154,7 @@ def main() -> None:
             "count": len(item_ids),
         }
 
-        # Save incrementally in case of crash
+        # Save incrementally
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(genre_mappings, f, ensure_ascii=False, indent=2)
 
@@ -153,10 +163,12 @@ def main() -> None:
     print("SCRAPING COMPLETE")
     print("=" * 60)
     total_items = sum(g["count"] for g in genre_mappings.values())
-    print(f"Total collections: {len(genre_mappings)}")
+    print(f"Total genres: {len(genre_mappings)}")
     print(f"Total item-genre mappings: {total_items}")
     print("\nBreakdown by genre:")
-    for genre_id, data in sorted(genre_mappings.items(), key=lambda x: x[1]["count"], reverse=True):
+    for _genre_id, data in sorted(
+        genre_mappings.items(), key=lambda x: x[1]["count"], reverse=True
+    ):
         print(f"  {data['name_el']:30s} {data['count']:5d} items")
     print(f"\nSaved to: {output_file}")
     print("=" * 60)
